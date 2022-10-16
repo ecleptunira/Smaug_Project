@@ -3,7 +3,14 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class GunController : MonoBehaviour
-{
+{   
+
+    [SerializeField]
+    private Sprite[] images;
+
+    [SerializeField]
+    private int x = 1;
+    [SerializeField]
     SpriteRenderer sprite;
     AudioSource shootFx;
 
@@ -15,6 +22,7 @@ public class GunController : MonoBehaviour
     void Start()
     {
         sprite = GetComponent<SpriteRenderer>();
+        sprite.sprite = images[1];
         shootFx = GetComponent<AudioSource>();
     }
 
@@ -22,7 +30,28 @@ public class GunController : MonoBehaviour
     void Update()
     {
         Aim();
-        Shoot();
+        GunShoot();
+        if(Input.GetKeyDown(KeyCode.Space))
+        {
+            if(x == 0)
+            {
+                x = 1;
+            }
+            else if (x == 1)
+            {
+                x = 2;
+            }
+            else {
+                x = 0;
+            }
+            sprite.sprite = images[x];
+        }
+    }
+
+    void GunShoot() {
+        if (x == 0) {
+            Shoot();
+        }
     }
 
     void Shoot() {
