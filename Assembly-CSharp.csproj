@@ -39,8 +39,11 @@
      <Compile Include="Assets\Scripts\GunController.cs" />
      <Compile Include="Assets\Scripts\Bullet.cs" />
      <Compile Include="Assets\Scripts\EnemyController.cs" />
+     <Compile Include="Assets\Scripts\Dialogue\Dialogue.cs" />
+     <Compile Include="Assets\Scripts\Dialogue\DialogueNode.cs" />
      <Compile Include="Assets\Scripts\PlayerController.cs" />
      <Compile Include="Assets\Scripts\SpawnManager.cs" />
+     <Compile Include="Assets\Animations\Player\Movement.cs" />
     <Reference Include="UnityEngine">
         <HintPath>D:\Unity\2020.3.30f1\2020.3.30f1\Editor\Data\Managed\UnityEngine\UnityEngine.dll</HintPath>
     </Reference>
@@ -670,6 +673,12 @@
     </Reference>
     <Reference Include="Unity.2D.IK.Runtime">
         <HintPath>D:\Facul\5º Semestre\Smaug\ProjectTG\Library\ScriptAssemblies\Unity.2D.IK.Runtime.dll</HintPath>
+    </Reference>
+    <Reference Include="Cinemachine">
+        <HintPath>D:\Facul\5º Semestre\Smaug\ProjectTG\Library\ScriptAssemblies\Cinemachine.dll</HintPath>
+    </Reference>
+    <Reference Include="com.unity.cinemachine.editor">
+        <HintPath>D:\Facul\5º Semestre\Smaug\ProjectTG\Library\ScriptAssemblies\com.unity.cinemachine.editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.Animation.Triangle.Runtime">
         <HintPath>D:\Facul\5º Semestre\Smaug\ProjectTG\Library\ScriptAssemblies\Unity.2D.Animation.Triangle.Runtime.dll</HintPath>
