@@ -4,6 +4,9 @@ using UnityEngine;
 
 public class GunController : MonoBehaviour
 {   
+   
+    public BoxCollider2D box;
+    
 
     [SerializeField]
     private Sprite[] images;
@@ -24,6 +27,8 @@ public class GunController : MonoBehaviour
         sprite = GetComponent<SpriteRenderer>();
         sprite.sprite = images[1];
         shootFx = GetComponent<AudioSource>();
+        box = GetComponent<BoxCollider2D>();
+        
     }
 
     // Update is called once per frame
@@ -36,13 +41,16 @@ public class GunController : MonoBehaviour
             if(x == 0)
             {
                 x = 1;
+                
             }
             else if (x == 1)
             {
                 x = 2;
+                
             }
             else {
                 x = 0;
+                
             }
             sprite.sprite = images[x];
         }
@@ -51,6 +59,14 @@ public class GunController : MonoBehaviour
     void GunShoot() {
         if (x == 0) {
             Shoot();
+            box.enabled = false;
+               
+            
+        }
+        if (x == 1 || x == 2) {
+            
+            box.enabled = true;
+            
         }
     }
 

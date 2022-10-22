@@ -9,7 +9,11 @@ public class EnemyController : MonoBehaviour
     GameObject player;
     Animator anim;
     AudioSource enemyFx;
-    
+
+    public int lifeEnemy;
+    public int lifeEnemyCurrent;
+    public int doDamage;
+
     bool isAlive = true;
 
     // Start is called before the first frame update
@@ -30,12 +34,24 @@ public class EnemyController : MonoBehaviour
         }
     }
 
-    private void OnTriggerEnter2D(Collider2D collision){
-        if(collision.CompareTag("Bullet")){
+   private void OnTriggerEnter2D(Collider2D collision)
+    {   
+        if(collision.gameObject.CompareTag("Player")){
+            collision.gameObject.GetComponent<PlayerController>().DamagePlayer(doDamage);
+            
+        }
+        
+        
+    }
+
+    public void DamageEnemy(int damaged){
+        lifeEnemyCurrent -= damaged;
+
+        if(lifeEnemyCurrent <= 0){
             anim.SetTrigger("Dead");
             isAlive = false;
             enemyFx.PlayOneShot(deadFx);
-            Destroy(gameObject, 0.5f);
+            Destroy(this.gameObject);
         }
     }
 }

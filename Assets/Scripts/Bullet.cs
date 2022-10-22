@@ -6,6 +6,7 @@ public class Bullet : MonoBehaviour
 {
     [SerializeField] float speed;
     [SerializeField] ParticleSystem effect;
+    public int doDamage;
 
     
 
@@ -17,7 +18,12 @@ public class Bullet : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D collision)
     {   
-        Instantiate(effect,transform.position, transform.rotation);
-        Destroy(gameObject);
+        if(collision.gameObject.CompareTag("Enemy")){
+            collision.gameObject.GetComponent<EnemyController>().DamageEnemy(doDamage);
+            Instantiate(effect,transform.position, transform.rotation);
+            Destroy(this.gameObject);
+        }
+        
+        
     }
 }
