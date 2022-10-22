@@ -192,6 +192,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 2
   deadFx: {fileID: 8300000, guid: 09544e772688be44a93fae09d537686b, type: 3}
+  lifeEnemy: 10
+  lifeEnemyCurrent: 10
+  doDamage: 1
 --- !u!82 &-2966238723204130834
 AudioSource:
   m_ObjectHideFlags: 0
