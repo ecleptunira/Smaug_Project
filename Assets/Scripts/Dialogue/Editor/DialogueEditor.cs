@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEditor.Callbacks;
 using UnityEditor;
 
 namespace RPG.Dialogue.Editor
@@ -15,10 +16,8 @@ namespace RPG.Dialogue.Editor
             window.Show();
         }
 
-        //public static bool OpneDialogue(int instanceID, int line)
-        
-            
-        
+        [OnOpenAssetAttribute(1)]
+        public static bool OnOpenAsset(int instanceID, int line) => false;
 
         private void OnGUI()
         {
