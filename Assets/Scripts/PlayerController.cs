@@ -11,7 +11,7 @@ public class PlayerController : MonoBehaviour
     public int lifeEnemy;
     public int lifeEnemyCurrent;
 
-    bool isAlive = true;
+    //bool isAlive = true;
 
     // Start is called before the first frame update
     void Start()
@@ -27,7 +27,7 @@ public class PlayerController : MonoBehaviour
 
         transform.Translate(moveInput * Time.deltaTime * moveSpeed);
 
-        anim.SetBool("isMoving", (Mathf.Abs(moveInput.x) > 0 || Mathf.Abs(moveInput.y) > 0));
+        //anim.SetBool("isMoving", (Mathf.Abs(moveInput.x) > 0 || Mathf.Abs(moveInput.y) > 0));
     }
 
     public void DamagePlayer(int damaged){
