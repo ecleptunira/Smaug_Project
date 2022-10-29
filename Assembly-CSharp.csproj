@@ -37,6 +37,7 @@
   </PropertyGroup>
   <ItemGroup>
      <Compile Include="Assets\Animations\Player\Movement.cs" />
+     <Compile Include="Assets\Animations\Enemy\Movement_enemyAnim.cs" />
      <Compile Include="Assets\Scripts\GunController.cs" />
      <Compile Include="Assets\Scripts\Bullet.cs" />
      <Compile Include="Assets\Scripts\EnemyController.cs" />
@@ -44,7 +45,6 @@
      <Compile Include="Assets\Scripts\Dialogue\DialogueNode.cs" />
      <Compile Include="Assets\Scripts\PlayerController.cs" />
      <Compile Include="Assets\Scripts\SpawnManager.cs" />
-     <Compile Include="Assets\Animations\Enemy\Movement_enemyAnim.cs" />
     <Reference Include="UnityEngine">
         <HintPath>D:\Unity\2020.3.30f1\2020.3.30f1\Editor\Data\Managed\UnityEngine\UnityEngine.dll</HintPath>
     </Reference>
