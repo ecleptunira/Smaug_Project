@@ -111,7 +111,7 @@ TextureImporter:
       213: -1346165780907171746
     second: Inimigo2Andando60x60_35
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -132,6 +132,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -170,6 +171,7 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -197,6 +199,18 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -976,6 +990,43 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      Inimigo2Andando60x60_34: -1246650446425438557
+      Inimigo2Andando60x60_23: -7478572595899587300
+      Inimigo2Andando60x60_33: 2217728406324721857
+      Inimigo2Andando60x60_22: -6613550182756148444
+      Inimigo2Andando60x60_26: 2380808132961647556
+      Inimigo2Andando60x60_18: -5589847071437720367
+      Inimigo2Andando60x60_27: 3943737418200753913
+      Inimigo2Andando60x60_19: -2182241561518691486
+      Inimigo2Andando60x60_16: -9138849667162576166
+      Inimigo2Andando60x60_11: -8385356506306956877
+      Inimigo2Andando60x60_7: -7546005278986161932
+      Inimigo2Andando60x60_5: -5468722005309735989
+      Inimigo2Andando60x60_8: -4470734164414968683
+      Inimigo2Andando60x60_35: -1346165780907171746
+      Inimigo2Andando60x60_0: -5569545393234515935
+      Inimigo2Andando60x60_29: 5531678760944352814
+      Inimigo2Andando60x60_30: 5708250094504420415
+      Inimigo2Andando60x60_24: 127324762613603108
+      Inimigo2Andando60x60_12: 1356497147395335351
+      Inimigo2Andando60x60_2: 4359898872838142063
+      Inimigo2Andando60x60_6: -4305044285370380270
+      Inimigo2Andando60x60_20: -3890444781217455940
+      Inimigo2Andando60x60_3: -4929726331998281370
+      Inimigo2Andando60x60_28: 3593334678829027191
+      Inimigo2Andando60x60_14: -8660078316970187788
+      Inimigo2Andando60x60_31: -4178240726620811772
+      Inimigo2Andando60x60_1: -955078563657628257
+      Inimigo2Andando60x60_13: 2005121562523548009
+      Inimigo2Andando60x60_32: -6600671543427706913
+      Inimigo2Andando60x60_17: -2404634835734295985
+      Inimigo2Andando60x60_4: 14422627966756518
+      Inimigo2Andando60x60_21: -9117043375300548301
+      Inimigo2Andando60x60_9: 4009181479844182180
+      Inimigo2Andando60x60_10: 7234621934342740369
+      Inimigo2Andando60x60_15: 486949214010842194
+      Inimigo2Andando60x60_25: 2884652138016486685
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

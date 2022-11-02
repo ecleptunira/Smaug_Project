@@ -6,6 +6,8 @@ public class EnemyController : MonoBehaviour
 {
     [SerializeField] float speed;
     [SerializeField] AudioClip deadFx;
+    [SerializeField] ParticleSystem effect;
+
     GameObject player;
     Animator anim;
     AudioSource enemyFx;
@@ -13,6 +15,7 @@ public class EnemyController : MonoBehaviour
     public int lifeEnemy;
     public int lifeEnemyCurrent;
     public int doDamage;
+    
 
     bool isAlive = true;
 
@@ -38,10 +41,11 @@ public class EnemyController : MonoBehaviour
     {   
         if(collision.gameObject.CompareTag("Player")){
             collision.gameObject.GetComponent<PlayerController>().DamagePlayer(doDamage);
-            
-        }
-        
-        
+        } 
+    }
+
+    public void doEffect(){
+        Instantiate(effect,transform.position, transform.rotation);
     }
 
     public void DamageEnemy(int damaged){

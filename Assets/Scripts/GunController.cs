@@ -7,7 +7,7 @@ public class GunController : MonoBehaviour
    
     public BoxCollider2D box;
     
-
+    public GameObject swordAttack;
     [SerializeField]
     private Sprite[] images;
 
@@ -19,6 +19,7 @@ public class GunController : MonoBehaviour
 
     public GameObject bullet;
     public Transform spawnBullet;
+    int cooldown = 1;
 
 
     // Start is called before the first frame update
@@ -60,13 +61,11 @@ public class GunController : MonoBehaviour
         if (x == 0) {
             Shoot();
             box.enabled = false;
-               
-            
         }
+
         if (x == 1 || x == 2) {
-            
+            StartCoroutine("Sword");
             box.enabled = true;
-            
         }
     }
 
@@ -75,6 +74,27 @@ public class GunController : MonoBehaviour
             Instantiate(bullet, spawnBullet.position, transform.rotation);
             shootFx.Play();
         }
+    }
+
+    IEnumerator Sword() {
+       
+        if (Input.GetButtonDown("Fire1")){
+            if (cooldown == 1){
+                StartCoroutine("SwordAttack");
+                cooldown = 0;
+            }else{
+                yield return new WaitForSeconds(2f);
+                StartCoroutine("SwordAttack");
+            }
+        }
+    }
+
+    IEnumerator SwordAttack() {
+
+        swordAttack.SetActive(true);
+        yield return new WaitForSeconds(0.5f);
+        swordAttack.SetActive(false);
+        yield return new WaitForSeconds(0.5F);
     }
 
     void Aim() {
