@@ -11,7 +11,7 @@ public class PlayerController : MonoBehaviour
     public int lifeEnemy;
     public int lifeEnemyCurrent;
 
-    //bool isAlive = true;
+   
 
     // Start is called before the first frame update
     void Start()
@@ -22,13 +22,18 @@ public class PlayerController : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        moveInput.x = Input.GetAxis("Horizontal");
-        moveInput.y = Input.GetAxis("Vertical");
+        // moveInput.x = Input.GetAxis("Horizontal");
+        // moveInput.y = Input.GetAxis("Vertical");
 
-        transform.Translate(moveInput * Time.deltaTime * moveSpeed);
+        // transform.Translate(moveInput * Time.deltaTime * moveSpeed);
 
-        //anim.SetBool("isMoving", (Mathf.Abs(moveInput.x) > 0 || Mathf.Abs(moveInput.y) > 0));
+        
+        // anim.SetBool("isMoving", (Mathf.Abs(moveInput.x) > 0 || Mathf.Abs(moveInput.y) > 0));
+
+        
     }
+
+    
 
     public void DamagePlayer(int damaged){
         lifeEnemyCurrent -= damaged;
