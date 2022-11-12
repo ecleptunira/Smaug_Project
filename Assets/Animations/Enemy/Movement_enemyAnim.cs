@@ -19,6 +19,7 @@ public class Movement_enemyAnim : MonoBehaviour
     private Vector2 movement;
     private bool isInChaseRange;
     private bool isInAttackRange;
+    bool isAlive = true;
 
     private void Start()
     {
@@ -30,19 +31,24 @@ public class Movement_enemyAnim : MonoBehaviour
     private void Update()
     {
         //anim.SetBool("isRunning", isInChaseRange);
+        if (target != null && isAlive)
+        {   
+            transform.position = Vector2.MoveTowards(transform.position, target.transform.position, speed * Time.deltaTime);
+            isInChaseRange = Physics2D.OverlapCircle(transform.position, checkRadius, WhatIsPlayer);
+            isInAttackRange = Physics2D.OverlapCircle(transform.position, checkRadius, WhatIsPlayer);
 
-        isInChaseRange = Physics2D.OverlapCircle(transform.position, checkRadius, WhatIsPlayer);
-        isInAttackRange = Physics2D.OverlapCircle(transform.position, checkRadius, WhatIsPlayer);
-
-        dir = target.position - transform.position;
-        float angle = Mathf.Atan2(dir.y, dir.x) * Mathf.Rad2Deg;
-        dir.Normalize();
-        movement = dir;
-        if(shouldRotate)
-        {
-            anim.SetFloat("X", dir.x);
-            anim.SetFloat("Y", dir.y);
+            dir = target.position - transform.position;
+            float angle = Mathf.Atan2(dir.y, dir.x) * Mathf.Rad2Deg;
+            dir.Normalize();
+            movement = dir;
+            if(shouldRotate)
+            {
+                anim.SetFloat("X", dir.x);
+                anim.SetFloat("Y", dir.y);
+            }
         }
+
+        
     }
 
     private void FixedUpdate()
