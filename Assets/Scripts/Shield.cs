@@ -21,11 +21,8 @@ public class Shield : MonoBehaviour
     {   
         if(collision.gameObject.CompareTag("Enemy")){
             Destroy(collision.gameObject);
-            collision.gameObject.GetComponent<EnemyController>().doEffect();
-            
-            
+            collision.gameObject.GetComponent<Movement_enemyAnim>().doEffect();
         }
-        
         
     }
 }

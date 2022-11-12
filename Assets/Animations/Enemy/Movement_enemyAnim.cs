@@ -21,6 +21,14 @@ public class Movement_enemyAnim : MonoBehaviour
     private bool isInAttackRange;
     bool isAlive = true;
 
+
+    [SerializeField] AudioClip deadFx;
+    [SerializeField] ParticleSystem effect;
+    public int lifeEnemy;
+    public int lifeEnemyCurrent;
+    public int doDamage;
+
+
     private void Start()
     {
         rb  = GetComponent<Rigidbody2D>();
@@ -66,5 +74,9 @@ public class Movement_enemyAnim : MonoBehaviour
     private void MoveCharacter(Vector2 dir)
     {
         rb.MovePosition((Vector2)transform.position + (dir * speed * Time.deltaTime));
+    }
+
+    public void doEffect(){
+        Instantiate(effect,transform.position, transform.rotation);
     }
 }
