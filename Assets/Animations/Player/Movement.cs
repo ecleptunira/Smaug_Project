@@ -8,9 +8,10 @@ public class Movement : MonoBehaviour
     public Animator anim;
     [SerializeField]
     public float speed;
+    public GameObject gameOver;
 
-    public int lifeEnemy;
-    public int lifeEnemyCurrent;
+    public int life;
+    public int lifeCurrent;
 
     void Update()
     {
@@ -21,17 +22,18 @@ public class Movement : MonoBehaviour
         transform.position = transform.position + movement * speed * Time.deltaTime;
     }
 
-    public void DamagePlayer(int damaged){
-        lifeEnemyCurrent -= damaged;
-
-        if(lifeEnemyCurrent <= 0){
-            Destroy(gameObject);
-        }
-    }
-
-    private void OnCollisionEnter2D(Collision2D collision){
+   
+    private void OnTriggerEnter2D(Collider2D collision){
         if(collision.gameObject.CompareTag("Enemy")){
-            Destroy(gameObject);
+            lifeCurrent -= 1;
+            Destroy(collision.gameObject);
+
+            
+            if(lifeCurrent <= 0){
+                Destroy(gameObject);
+                gameOver.SetActive(true);
+            }
+           
         }
     }
 }
