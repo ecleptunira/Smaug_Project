@@ -38,6 +38,8 @@ public class Movement : MonoBehaviour
 
         if(collision.gameObject.CompareTag("Boss")){
             Destroy(gameObject);
+            gameOver.SetActive(true);
+            Time.timeScale = 0f;
         }
     }
 }

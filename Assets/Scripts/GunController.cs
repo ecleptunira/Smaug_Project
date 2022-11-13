@@ -38,7 +38,7 @@ public class GunController : MonoBehaviour
                 StartCoroutine("SwordAttack");
                 cooldown = 0;
             }else{
-                yield return new WaitForSeconds(2f);
+                yield return new WaitForSeconds(0.1f);
                 StartCoroutine("SwordAttack");
             }
         }
@@ -47,9 +47,9 @@ public class GunController : MonoBehaviour
     IEnumerator SwordAttack() {
 
         swordAttack.SetActive(true);
-        yield return new WaitForSeconds(0.5f);
+        yield return new WaitForSeconds(0.2f);
         swordAttack.SetActive(false);
-        yield return new WaitForSeconds(0.5F);
+        
     }
 
     void Aim() {
