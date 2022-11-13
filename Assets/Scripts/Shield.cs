@@ -24,5 +24,8 @@ public class Shield : MonoBehaviour
             collision.gameObject.GetComponent<Movement_enemyAnim>().doEffect();
         }
         
+        if(collision.gameObject.CompareTag("Boss")){
+            collision.gameObject.GetComponent<Movement_enemyAnim>().DamageEnemy(1);
+        }
     }
 }

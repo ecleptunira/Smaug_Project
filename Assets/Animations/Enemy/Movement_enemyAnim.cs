@@ -79,4 +79,14 @@ public class Movement_enemyAnim : MonoBehaviour
     public void doEffect(){
         Instantiate(effect,transform.position, transform.rotation);
     }
+
+    public void DamageEnemy(int damaged){
+        lifeEnemyCurrent -= damaged;
+
+        if(lifeEnemyCurrent <= 0){
+            doEffect();
+            isAlive = false;
+            Destroy(this.gameObject);
+        }
+    }
 }

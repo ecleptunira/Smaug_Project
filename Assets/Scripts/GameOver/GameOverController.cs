@@ -15,6 +15,7 @@ public class GameOverController : MonoBehaviour
     public void Replay(){
         
         gameOver.SetActive(false);
-        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);    
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);   
+        Time.timeScale = 1f; 
     }
 }
