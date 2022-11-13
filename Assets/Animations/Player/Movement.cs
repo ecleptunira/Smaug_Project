@@ -28,12 +28,16 @@ public class Movement : MonoBehaviour
             lifeCurrent -= 1;
             Destroy(collision.gameObject);
 
-            
             if(lifeCurrent <= 0){
                 Destroy(gameObject);
                 gameOver.SetActive(true);
+                Time.timeScale = 0f;
             }
            
+        }
+
+        if(collision.gameObject.CompareTag("Boss")){
+            Destroy(gameObject);
         }
     }
 }
