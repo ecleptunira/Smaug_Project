@@ -10,9 +10,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: "Ret\xE2ngulo 4_0"
+  m_Name: Camada 2_10
   m_EditorClassIdentifier: 
-  m_Sprite: {fileID: 7176295990087615494, guid: d3db6e5054bdc464392e639544d72d54, type: 3}
+  m_Sprite: {fileID: 7100098705310972271, guid: 5bfcb921605d50249a2f7eeec64dd699, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Transform:
     e00: 1
