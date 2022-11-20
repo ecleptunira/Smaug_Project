@@ -26,9 +26,10 @@ public class GunController : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        Aim();
-        StartCoroutine("Sword");
-        
+        if(Time.timeScale == 1){
+            Aim();
+            StartCoroutine("Sword");
+        }
     }
 
     IEnumerator Sword() {

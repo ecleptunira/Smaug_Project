@@ -8,7 +8,7 @@ public class Movement : MonoBehaviour
     public Animator anim;
     [SerializeField]
     public float speed;
-    public GameObject gameOver;
+    public GameObject lastDialogue;
 
     public int life;
     public int lifeCurrent;
@@ -30,7 +30,7 @@ public class Movement : MonoBehaviour
 
             if(lifeCurrent <= 0){
                 Destroy(gameObject);
-                gameOver.SetActive(true);
+                lastDialogue.SetActive(true);
                 Time.timeScale = 0f;
             }
            
