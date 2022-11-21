@@ -40,14 +40,16 @@
      <Compile Include="Assets\Animations\Enemy\Movement_enemyAnim.cs" />
      <Compile Include="Assets\Scripts\GunController.cs" />
      <Compile Include="Assets\Scripts\Bullet.cs" />
+     <Compile Include="Assets\Scripts\Menu\Menu.cs" />
      <Compile Include="Assets\Scripts\EnemyController.cs" />
+     <Compile Include="Assets\Scripts\GameOver\GameOverController.cs" />
      <Compile Include="Assets\Scripts\Dialogue\Dialogue.cs" />
      <Compile Include="Assets\Scripts\Dialogue\DialogueNode.cs" />
      <Compile Include="Assets\Scripts\PlayerController.cs" />
-     <Compile Include="Assets\Scripts\SpawnManager.cs" />
      <Compile Include="Assets\Scripts\Shield.cs" />
-     <Compile Include="Assets\Scripts\Menu\Menu.cs" />
-     <Compile Include="Assets\Scripts\GameOver\GameOverController.cs" />
+     <Compile Include="Assets\Scripts\SpawnManager.cs" />
+     <Compile Include="Assets\Scripts\LastDialogue.cs" />
+     <Compile Include="Assets\Scripts\Dialogue.cs" />
     <Reference Include="UnityEngine">
         <HintPath>D:\Unity\2020.3.30f1\2020.3.30f1\Editor\Data\Managed\UnityEngine\UnityEngine.dll</HintPath>
     </Reference>
