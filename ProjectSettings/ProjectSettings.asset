@@ -3,7 +3,7 @@
 --- !u!129 &1
 PlayerSettings:
   m_ObjectHideFlags: 0
-  serializedVersion: 23
+  serializedVersion: 22
   productGUID: 006edf9ba861b1f40b7671858fd0a27e
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
@@ -150,7 +150,6 @@ PlayerSettings:
   m_ColorGamuts: 00000000
   targetPixelDensity: 30
   resolutionScalingMode: 0
-  resetResolutionOnWindowResize: 0
   androidSupportedAspectRatio: 1
   androidMaxAspectRatio: 2.1
   applicationIdentifier:
@@ -271,7 +270,7 @@ PlayerSettings:
   - m_BuildTarget: 
     m_Icons:
     - serializedVersion: 2
-      m_Icon: {fileID: 2800000, guid: cd3d4d734f3e5a44ea3f5e5a2e19a989, type: 3}
+      m_Icon: {fileID: 2800000, guid: da94a5cf2bc05ea42b07603de72cf901, type: 3}
       m_Width: 128
       m_Height: 128
       m_Kind: 0
@@ -616,7 +615,6 @@ PlayerSettings:
   metroFTAName: 
   metroFTAFileTypes: []
   metroProtocolName: 
-  vcxProjDefaultLanguage: 
   XboxOneProductId: 
   XboxOneUpdateKey: 
   XboxOneSandboxId: 
