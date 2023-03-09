@@ -4,22 +4,25 @@ using UnityEngine;
 
 public class GunController : MonoBehaviour
 {   
-    public BoxCollider2D box;
-    public GameObject swordAttack;
+    // public BoxCollider2D box;
+    public GameObject bullet;
+    public float firerate;
+    float nextfire;
+    // public GameObject swordAttack;
 
     [SerializeField]
     SpriteRenderer sprite;
-    AudioSource shootFx;
+    
 
-    int cooldown = 1;
+    // int cooldown = 1;
 
 
     // Start is called before the first frame update
     void Start()
     {
         sprite = GetComponent<SpriteRenderer>();
-        shootFx = GetComponent<AudioSource>();
-        box = GetComponent<BoxCollider2D>();
+       
+        // box = GetComponent<BoxCollider2D>();
         
     }
 
@@ -28,30 +31,45 @@ public class GunController : MonoBehaviour
     {
         if(Time.timeScale == 1){
             Aim();
-            StartCoroutine("Sword");
+            Shoot();
+            // StartCoroutine("Sword");
         }
     }
 
-    IEnumerator Sword() {
-       
-        if (Input.GetButtonDown("Fire1")){
-            if (cooldown == 1){
-                StartCoroutine("SwordAttack");
-                cooldown = 0;
-            }else{
-                yield return new WaitForSeconds(0.1f);
-                StartCoroutine("SwordAttack");
+    void Shoot() 
+    {
+        if(Time.time > nextfire)
+        {
+            if (Input.GetButtonDown("Fire1"))
+            {   
+                nextfire = Time.time + firerate;
+                Instantiate(bullet, transform.position,transform.rotation);
+                Sound.instance.soundAttack.Play();
             }
         }
-    }
-
-    IEnumerator SwordAttack() {
-
-        swordAttack.SetActive(true);
-        yield return new WaitForSeconds(0.2f);
-        swordAttack.SetActive(false);
         
     }
+
+    // IEnumerator Sword() {
+       
+    //     if (Input.GetButtonDown("Fire1")){
+    //         if (cooldown == 1){
+    //             StartCoroutine("SwordAttack");
+    //             cooldown = 0;
+    //         }else{
+    //             yield return new WaitForSeconds(0.1f);
+    //             StartCoroutine("SwordAttack");
+    //         }
+    //     }
+    // }
+
+    // IEnumerator SwordAttack() {
+
+    //     swordAttack.SetActive(true);
+    //     yield return new WaitForSeconds(0.2f);
+    //     swordAttack.SetActive(false);
+        
+    // }
 
     void Aim() {
         Vector3 mousePos = Input.mousePosition;

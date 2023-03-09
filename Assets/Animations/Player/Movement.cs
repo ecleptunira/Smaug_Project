@@ -9,6 +9,7 @@ public class Movement : MonoBehaviour
     [SerializeField]
     public float speed;
     public GameObject lastDialogue;
+    [SerializeField] ParticleSystem hurt;
 
     public int life;
     public int lifeCurrent;
@@ -21,12 +22,17 @@ public class Movement : MonoBehaviour
         anim.SetFloat("Speed", movement.magnitude);
         transform.position = transform.position + movement * speed * Time.deltaTime;
     }
-
+    
+     public void doHurt(){
+        Instantiate(hurt,transform.position, transform.rotation);
+    }
    
     private void OnTriggerEnter2D(Collider2D collision){
         if(collision.gameObject.CompareTag("Enemy")){
             lifeCurrent -= 1;
             Destroy(collision.gameObject);
+            doHurt();
+            Sound.instance.soundPlayer.Play();
 
             if(lifeCurrent <= 0){
                 Destroy(gameObject);

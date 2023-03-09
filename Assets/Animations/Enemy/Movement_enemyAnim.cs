@@ -9,6 +9,7 @@ public class Movement_enemyAnim : MonoBehaviour
     public float attackRadius;
     public Vector3 dir;
 
+
     public bool shouldRotate;
 
     public LayerMask WhatIsPlayer;
@@ -22,9 +23,11 @@ public class Movement_enemyAnim : MonoBehaviour
     bool isAlive = true;
 
 
-    [SerializeField] AudioClip deadFx;
-    [SerializeField] ParticleSystem effect;
-    public int lifeEnemy;
+
+
+    [SerializeField] ParticleSystem effectDestroy;
+    [SerializeField] ParticleSystem effectHurt;
+    public int lifeEnemy = 3;
     public int lifeEnemyCurrent;
     public int doDamage;
 
@@ -34,6 +37,7 @@ public class Movement_enemyAnim : MonoBehaviour
         rb  = GetComponent<Rigidbody2D>();
         anim = GetComponent<Animator>();
         target = GameObject.FindWithTag("Player").transform;
+        
     }
 
     private void Update()
@@ -76,17 +80,28 @@ public class Movement_enemyAnim : MonoBehaviour
         rb.MovePosition((Vector2)transform.position + (dir * speed * Time.deltaTime));
     }
 
-    public void doEffect(){
-        Instantiate(effect,transform.position, transform.rotation);
+   
+
+    public void doEffectDestroy(){
+        Instantiate(effectDestroy,transform.position, transform.rotation);
+    }
+
+    public void doEffectHurt(){
+        Instantiate(effectHurt,transform.position, transform.rotation);
     }
 
     public void DamageEnemy(int damaged){
         lifeEnemyCurrent -= damaged;
+        doEffectHurt();
+        
+        
 
         if(lifeEnemyCurrent <= 0){
-            doEffect();
+            doEffectDestroy();
             isAlive = false;
-            Destroy(this.gameObject);
+            Sound.instance.soundEnemy.Play();
+            Destroy(this.gameObject,0.1f);
+           
         }
     }
 }
