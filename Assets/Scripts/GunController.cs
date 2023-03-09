@@ -4,26 +4,22 @@ using UnityEngine;
 
 public class GunController : MonoBehaviour
 {   
-    // public BoxCollider2D box;
+    
     public GameObject bullet;
     public float firerate;
     float nextfire;
-    // public GameObject swordAttack;
+
 
     [SerializeField]
     SpriteRenderer sprite;
     
 
-    // int cooldown = 1;
-
-
-    // Start is called before the first frame update
+   
     void Start()
     {
         sprite = GetComponent<SpriteRenderer>();
        
-        // box = GetComponent<BoxCollider2D>();
-        
+     
     }
 
     // Update is called once per frame
@@ -32,7 +28,7 @@ public class GunController : MonoBehaviour
         if(Time.timeScale == 1){
             Aim();
             Shoot();
-            // StartCoroutine("Sword");
+            
         }
     }
 
@@ -49,27 +45,6 @@ public class GunController : MonoBehaviour
         }
         
     }
-
-    // IEnumerator Sword() {
-       
-    //     if (Input.GetButtonDown("Fire1")){
-    //         if (cooldown == 1){
-    //             StartCoroutine("SwordAttack");
-    //             cooldown = 0;
-    //         }else{
-    //             yield return new WaitForSeconds(0.1f);
-    //             StartCoroutine("SwordAttack");
-    //         }
-    //     }
-    // }
-
-    // IEnumerator SwordAttack() {
-
-    //     swordAttack.SetActive(true);
-    //     yield return new WaitForSeconds(0.2f);
-    //     swordAttack.SetActive(false);
-        
-    // }
 
     void Aim() {
         Vector3 mousePos = Input.mousePosition;
