@@ -4,23 +4,22 @@ using UnityEngine;
 
 public class GunController : MonoBehaviour
 {   
-    public BoxCollider2D box;
-    public GameObject swordAttack;
+    
+    public GameObject bullet;
+    public float firerate;
+    float nextfire;
+
 
     [SerializeField]
     SpriteRenderer sprite;
-    AudioSource shootFx;
+    
 
-    int cooldown = 1;
-
-
-    // Start is called before the first frame update
+   
     void Start()
     {
         sprite = GetComponent<SpriteRenderer>();
-        shootFx = GetComponent<AudioSource>();
-        box = GetComponent<BoxCollider2D>();
-        
+       
+     
     }
 
     // Update is called once per frame
@@ -28,28 +27,22 @@ public class GunController : MonoBehaviour
     {
         if(Time.timeScale == 1){
             Aim();
-            StartCoroutine("Sword");
+            Shoot();
+            
         }
     }
 
-    IEnumerator Sword() {
-       
-        if (Input.GetButtonDown("Fire1")){
-            if (cooldown == 1){
-                StartCoroutine("SwordAttack");
-                cooldown = 0;
-            }else{
-                yield return new WaitForSeconds(0.1f);
-                StartCoroutine("SwordAttack");
+    void Shoot() 
+    {
+        if(Time.time > nextfire)
+        {
+            if (Input.GetButtonDown("Fire1"))
+            {   
+                nextfire = Time.time + firerate;
+                Instantiate(bullet, transform.position,transform.rotation);
+                Sound.instance.soundAttack.Play();
             }
         }
-    }
-
-    IEnumerator SwordAttack() {
-
-        swordAttack.SetActive(true);
-        yield return new WaitForSeconds(0.2f);
-        swordAttack.SetActive(false);
         
     }
 
