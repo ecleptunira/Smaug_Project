@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Enemy : MonoBehaviour
+public class Movement_enemyAnim : MonoBehaviour
 {
     public float speed;
     public float checkRadius;
@@ -27,7 +27,7 @@ public class Enemy : MonoBehaviour
 
     [SerializeField] ParticleSystem effectDestroy;
     [SerializeField] ParticleSystem effectHurt;
-    public int lifeEnemy = 3;
+    public int lifeEnemy = 2;
     public int lifeEnemyCurrent;
     public int doDamage;
 
