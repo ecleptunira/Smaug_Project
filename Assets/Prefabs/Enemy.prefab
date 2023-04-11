@@ -226,8 +226,8 @@ MonoBehaviour:
     m_Bits: 64
   effectDestroy: {fileID: 7181927933332002972, guid: e22b2ffe4d6583e4fa90f8a86e6ca8f5, type: 3}
   effectHurt: {fileID: 535627159981836140, guid: 0f4ccddd45483414ea3182f2c9e2af6c, type: 3}
-  lifeEnemy: 3
-  lifeEnemyCurrent: 3
+  lifeEnemy: 2
+  lifeEnemyCurrent: 2
   doDamage: 1
 --- !u!95 &-9145563241161635639
 Animator:
