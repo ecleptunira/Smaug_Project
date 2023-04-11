@@ -13,7 +13,8 @@ public class SpawnManager : MonoBehaviour
     int index;
     int stockEnem = 20;
     bool boss = true;
-    float delay = 10;
+    float delay = 25;
+
     
 
     void Start()
@@ -31,6 +32,7 @@ public class SpawnManager : MonoBehaviour
     void SpawnEnemies(){
         if(player != null) {
             if(stockEnem > 0){
+                int index = Random.Range(0, 5);
                 Instantiate(enemy, spawnPoints[index].position, Quaternion.identity);
                 stockEnem--;
             }else if (boss){
