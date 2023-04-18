@@ -8,6 +8,8 @@ public class GunController : MonoBehaviour
     public GameObject bullet;
     public float firerate;
     float nextfire;
+    [SerializeField]
+    public Animator anim;
 
 
     [SerializeField]
@@ -38,6 +40,7 @@ public class GunController : MonoBehaviour
         {
             if (Input.GetButtonDown("Fire1"))
             {   
+                anim.SetTrigger("Whip");
                 nextfire = Time.time + firerate;
                 Instantiate(bullet, transform.position,transform.rotation);
                 Sound.instance.soundAttack.Play();

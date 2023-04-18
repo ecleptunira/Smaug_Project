@@ -1,0 +1,685 @@
+fileFormatVersion: 2
+guid: 68ab21ed1ea35a14aa132378d48def7e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6441228627647336404
+    second: Usando Chicote_0
+  - first:
+      213: -1514331825744604464
+    second: Usando Chicote_1
+  - first:
+      213: -618988040248643042
+    second: Usando Chicote_2
+  - first:
+      213: -1248589314249775132
+    second: Usando Chicote_3
+  - first:
+      213: -4171360518220186565
+    second: Usando Chicote_4
+  - first:
+      213: 3975235263330544400
+    second: Usando Chicote_5
+  - first:
+      213: 1443210777926114858
+    second: Usando Chicote_6
+  - first:
+      213: 8636403692979482435
+    second: Usando Chicote_7
+  - first:
+      213: 4833864419188727263
+    second: Usando Chicote_8
+  - first:
+      213: 8106705743104393899
+    second: Usando Chicote_9
+  - first:
+      213: -6382264157817956014
+    second: Usando Chicote_10
+  - first:
+      213: 2387316217576656594
+    second: Usando Chicote_11
+  - first:
+      213: 166984218371936518
+    second: Usando Chicote_12
+  - first:
+      213: -354762730857631653
+    second: Usando Chicote_13
+  - first:
+      213: 4961523610780978893
+    second: Usando Chicote_14
+  - first:
+      213: -6904843515949161196
+    second: Usando Chicote_15
+  - first:
+      213: -6479682044978010433
+    second: Usando Chicote_16
+  - first:
+      213: 2546952262418850975
+    second: Usando Chicote_17
+  - first:
+      213: -6772646495262399008
+    second: Usando Chicote_18
+  - first:
+      213: 6099354531470869306
+    second: Usando Chicote_19
+  - first:
+      213: -6451858017825615136
+    second: Usando Chicote_20
+  - first:
+      213: -6177930369714693465
+    second: Usando Chicote_21
+  - first:
+      213: 1091009524075222779
+    second: Usando Chicote_22
+  - first:
+      213: 6751230195119642304
+    second: Usando Chicote_23
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Usando Chicote_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 181
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4df0ffb4f47d36950800000000000000
+      internalID: 6441228627647336404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Usando Chicote_1
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 180
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d29c6e4a330cfae0800000000000000
+      internalID: -1514331825744604464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Usando Chicote_2
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 181
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e12b3cc28a9e867f0800000000000000
+      internalID: -618988040248643042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Usando Chicote_3
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 181
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e72bcd42ae1caee0800000000000000
+      internalID: -1248589314249775132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Usando Chicote_4
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 181
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3c7561a5b95c16c0800000000000000
+      internalID: -4171360518220186565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Usando Chicote_5
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 181
+        width: 45
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01b6c69096fda2730800000000000000
+      internalID: 3975235263330544400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Usando Chicote_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 121
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2e1d4a5e80570410800000000000000
+      internalID: 1443210777926114858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Usando Chicote_7
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 121
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34fe9e0b66baad770800000000000000
+      internalID: 8636403692979482435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Usando Chicote_8
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 121
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fddd42e0416551340800000000000000
+      internalID: 4833864419188727263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Usando Chicote_9
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 121
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba24b541cedc08070800000000000000
+      internalID: 8106705743104393899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Usando Chicote_10
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 121
+        width: 45
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2599d8a2094ad67a0800000000000000
+      internalID: -6382264157817956014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Usando Chicote_11
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 121
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2de8f2b8373712120800000000000000
+      internalID: 2387316217576656594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Usando Chicote_12
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 61
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 601d72b034f315200800000000000000
+      internalID: 166984218371936518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Usando Chicote_13
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 61
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b50fea70d21a31bf0800000000000000
+      internalID: -354762730857631653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Usando Chicote_14
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 61
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dce405dcf6fdad440800000000000000
+      internalID: 4961523610780978893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Usando Chicote_15
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 61
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 415e03ad7611d20a0800000000000000
+      internalID: -6904843515949161196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Usando Chicote_16
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 61
+        width: 44
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb6eb9bc28b8316a0800000000000000
+      internalID: -6479682044978010433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Usando Chicote_17
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 61
+        width: 42
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f946a5d9697985320800000000000000
+      internalID: 2546952262418850975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Usando Chicote_18
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e5279445e9b202a0800000000000000
+      internalID: -6772646495262399008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Usando Chicote_19
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a338d7f61a245a450800000000000000
+      internalID: 6099354531470869306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Usando Chicote_20
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e29f32f0556676a0800000000000000
+      internalID: -6451858017825615136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Usando Chicote_21
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 1
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aade029f05934aa0800000000000000
+      internalID: -6177930369714693465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Usando Chicote_22
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 1
+        width: 56
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf65219b16b042f00800000000000000
+      internalID: 1091009524075222779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Usando Chicote_23
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 1
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c65ff8c71031bd50800000000000000
+      internalID: 6751230195119642304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

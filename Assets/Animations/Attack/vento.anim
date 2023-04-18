@@ -6,7 +6,7 @@ AnimationClip:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: idle
+  m_Name: vento
   serializedVersion: 6
   m_Legacy: 0
   m_Compressed: 0
@@ -20,12 +20,16 @@ AnimationClip:
   m_PPtrCurves:
   - curve:
     - time: 0
-      value: {fileID: -7984851846247413359, guid: 3da66bd86678fdd43b0a7e5f43429840, type: 3}
+      value: {fileID: 2307850868021521415, guid: 1608223e9b306b54aa0bd2776924fede, type: 3}
+    - time: 0.03125
+      value: {fileID: 5837254797140416730, guid: 1608223e9b306b54aa0bd2776924fede, type: 3}
+    - time: 0.0625
+      value: {fileID: -6015645452550432101, guid: 1608223e9b306b54aa0bd2776924fede, type: 3}
     attribute: m_Sprite
     path: 
     classID: 212
     script: {fileID: 0}
-  m_SampleRate: 60
+  m_SampleRate: 32
   m_WrapMode: 0
   m_Bounds:
     m_Center: {x: 0, y: 0, z: 0}
@@ -40,13 +44,15 @@ AnimationClip:
       customType: 23
       isPPtrCurve: 1
     pptrCurveMapping:
-    - {fileID: -7984851846247413359, guid: 3da66bd86678fdd43b0a7e5f43429840, type: 3}
+    - {fileID: 2307850868021521415, guid: 1608223e9b306b54aa0bd2776924fede, type: 3}
+    - {fileID: 5837254797140416730, guid: 1608223e9b306b54aa0bd2776924fede, type: 3}
+    - {fileID: -6015645452550432101, guid: 1608223e9b306b54aa0bd2776924fede, type: 3}
   m_AnimationClipSettings:
     serializedVersion: 2
     m_AdditiveReferencePoseClip: {fileID: 0}
     m_AdditiveReferencePoseTime: 0
     m_StartTime: 0
-    m_StopTime: 0.016666668
+    m_StopTime: 0.09375
     m_OrientationOffsetY: 0
     m_Level: 0
     m_CycleOffset: 0
