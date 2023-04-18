@@ -9755,6 +9755,7 @@ MonoBehaviour:
   bullet: {fileID: 7143031224672145177, guid: 973a50a38d64c264bbca2e794a801890, type: 3}
   firerate: 0.45
   anim: {fileID: 1569204299}
+  whip: 1
   sprite: {fileID: 852499512}
 --- !u!61 &852499515
 BoxCollider2D:

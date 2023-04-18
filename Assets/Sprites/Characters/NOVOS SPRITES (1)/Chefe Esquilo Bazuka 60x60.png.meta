@@ -1,0 +1,973 @@
+fileFormatVersion: 2
+guid: 51c4acc0189b3b2468a64156eb0b9968
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3908664319047349618
+    second: Chefe Esquilo Bazuka 60x60_0
+  - first:
+      213: -2912520480969354665
+    second: Chefe Esquilo Bazuka 60x60_1
+  - first:
+      213: 7674029922738278773
+    second: Chefe Esquilo Bazuka 60x60_2
+  - first:
+      213: -7689806497730725793
+    second: Chefe Esquilo Bazuka 60x60_3
+  - first:
+      213: 2008015048457504098
+    second: Chefe Esquilo Bazuka 60x60_4
+  - first:
+      213: -5393469657325667268
+    second: Chefe Esquilo Bazuka 60x60_5
+  - first:
+      213: -1520314012814949538
+    second: Chefe Esquilo Bazuka 60x60_6
+  - first:
+      213: 6025042268421877362
+    second: Chefe Esquilo Bazuka 60x60_7
+  - first:
+      213: -1097616036230493673
+    second: Chefe Esquilo Bazuka 60x60_8
+  - first:
+      213: 1774382239704040175
+    second: Chefe Esquilo Bazuka 60x60_9
+  - first:
+      213: 4060771871449982463
+    second: Chefe Esquilo Bazuka 60x60_10
+  - first:
+      213: -381933607617571977
+    second: Chefe Esquilo Bazuka 60x60_11
+  - first:
+      213: -5092418090997989644
+    second: Chefe Esquilo Bazuka 60x60_12
+  - first:
+      213: 3511415877118773485
+    second: Chefe Esquilo Bazuka 60x60_13
+  - first:
+      213: 4743192708709343060
+    second: Chefe Esquilo Bazuka 60x60_14
+  - first:
+      213: 5627621223960876674
+    second: Chefe Esquilo Bazuka 60x60_15
+  - first:
+      213: -2988616157142943657
+    second: Chefe Esquilo Bazuka 60x60_16
+  - first:
+      213: -4312038772466327051
+    second: Chefe Esquilo Bazuka 60x60_17
+  - first:
+      213: 8746520962867020109
+    second: Chefe Esquilo Bazuka 60x60_18
+  - first:
+      213: -9062213684357481448
+    second: Chefe Esquilo Bazuka 60x60_19
+  - first:
+      213: 7162056184937660378
+    second: Chefe Esquilo Bazuka 60x60_20
+  - first:
+      213: -8701388883645293544
+    second: Chefe Esquilo Bazuka 60x60_21
+  - first:
+      213: 976490158125471159
+    second: Chefe Esquilo Bazuka 60x60_22
+  - first:
+      213: 104302366565543510
+    second: Chefe Esquilo Bazuka 60x60_23
+  - first:
+      213: 1315167211094858182
+    second: Chefe Esquilo Bazuka 60x60_24
+  - first:
+      213: -5891931672780821859
+    second: Chefe Esquilo Bazuka 60x60_25
+  - first:
+      213: -4772135740360554736
+    second: Chefe Esquilo Bazuka 60x60_26
+  - first:
+      213: -7945209746782740127
+    second: Chefe Esquilo Bazuka 60x60_27
+  - first:
+      213: -5401371199457297750
+    second: Chefe Esquilo Bazuka 60x60_28
+  - first:
+      213: 4104620489485727994
+    second: Chefe Esquilo Bazuka 60x60_29
+  - first:
+      213: 2714422403054696554
+    second: Chefe Esquilo Bazuka 60x60_30
+  - first:
+      213: -94855246501665086
+    second: Chefe Esquilo Bazuka 60x60_31
+  - first:
+      213: 2547044418751646872
+    second: Chefe Esquilo Bazuka 60x60_32
+  - first:
+      213: -8285937256768425948
+    second: Chefe Esquilo Bazuka 60x60_33
+  - first:
+      213: -2189535051571712668
+    second: Chefe Esquilo Bazuka 60x60_34
+  - first:
+      213: 2100095602871224638
+    second: Chefe Esquilo Bazuka 60x60_35
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Chefe Esquilo Bazuka 60x60_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 182
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8a40f4c282a1c9c0800000000000000
+      internalID: -3908664319047349618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chefe Esquilo Bazuka 60x60_1
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 182
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75295c2cd06a497d0800000000000000
+      internalID: -2912520480969354665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chefe Esquilo Bazuka 60x60_2
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 181
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57198845e81af7a60800000000000000
+      internalID: 7674029922738278773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chefe Esquilo Bazuka 60x60_3
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 181
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f58f44f8bb1584590800000000000000
+      internalID: -7689806497730725793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chefe Esquilo Bazuka 60x60_4
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 181
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 265c2f23c07eddb10800000000000000
+      internalID: 2008015048457504098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chefe Esquilo Bazuka 60x60_5
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 182
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3c71482ceb8625b0800000000000000
+      internalID: -5393469657325667268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chefe Esquilo Bazuka 60x60_6
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 181
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e53cd17d572c6eae0800000000000000
+      internalID: -1520314012814949538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chefe Esquilo Bazuka 60x60_7
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 181
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27eeff565004d9350800000000000000
+      internalID: 6025042268421877362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chefe Esquilo Bazuka 60x60_8
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 181
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71a85bcc70c74c0f0800000000000000
+      internalID: -1097616036230493673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chefe Esquilo Bazuka 60x60_9
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 121
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe24255fe3fdf9810800000000000000
+      internalID: 1774382239704040175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chefe Esquilo Bazuka 60x60_10
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 121
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff5acaf8082ca5830800000000000000
+      internalID: 4060771871449982463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chefe Esquilo Bazuka 60x60_11
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 122
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 773db2e486913baf0800000000000000
+      internalID: -381933607617571977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chefe Esquilo Bazuka 60x60_12
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 122
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4feba4e1ab81459b0800000000000000
+      internalID: -5092418090997989644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chefe Esquilo Bazuka 60x60_13
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 121
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de8c45ec22e0bb030800000000000000
+      internalID: 3511415877118773485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chefe Esquilo Bazuka 60x60_14
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 121
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45fd7d753a433d140800000000000000
+      internalID: 4743192708709343060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chefe Esquilo Bazuka 60x60_15
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 121
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28613a0dfa3591e40800000000000000
+      internalID: 5627621223960876674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chefe Esquilo Bazuka 60x60_16
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 121
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 758708f707d4686d0800000000000000
+      internalID: -2988616157142943657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chefe Esquilo Bazuka 60x60_17
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 121
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f1ee65259f8824c0800000000000000
+      internalID: -4312038772466327051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chefe Esquilo Bazuka 60x60_18
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 61
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4142348972e16970800000000000000
+      internalID: 8746520962867020109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chefe Esquilo Bazuka 60x60_19
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 61
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81c3031faac8c3280800000000000000
+      internalID: -9062213684357481448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chefe Esquilo Bazuka 60x60_20
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 62
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adf399c672cb46360800000000000000
+      internalID: 7162056184937660378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chefe Esquilo Bazuka 60x60_21
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 62
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81c1ac989e47e3780800000000000000
+      internalID: -8701388883645293544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chefe Esquilo Bazuka 60x60_22
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 61
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b5dbb900a03d8d00800000000000000
+      internalID: 976490158125471159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chefe Esquilo Bazuka 60x60_23
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 61
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65e2f54237e827100800000000000000
+      internalID: 104302366565543510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chefe Esquilo Bazuka 60x60_24
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 61
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c9dc854c99604210800000000000000
+      internalID: 1315167211094858182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chefe Esquilo Bazuka 60x60_25
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 61
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9aa6034c57ab3ea0800000000000000
+      internalID: -5891931672780821859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chefe Esquilo Bazuka 60x60_26
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 61
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0170dd7f3d7f5cdb0800000000000000
+      internalID: -4772135740360554736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chefe Esquilo Bazuka 60x60_27
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 3
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1612b01b4d1fcb190800000000000000
+      internalID: -7945209746782740127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chefe Esquilo Bazuka 60x60_28
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 3
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaa725403897a05b0800000000000000
+      internalID: -5401371199457297750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chefe Esquilo Bazuka 60x60_29
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 2
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af83695869a86f830800000000000000
+      internalID: 4104620489485727994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chefe Esquilo Bazuka 60x60_30
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 1
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a68ff604bc09ba520800000000000000
+      internalID: 2714422403054696554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chefe Esquilo Bazuka 60x60_31
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 2
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c6af27e7a10faef0800000000000000
+      internalID: -94855246501665086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chefe Esquilo Bazuka 60x60_32
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 3
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89c45de676be85320800000000000000
+      internalID: 2547044418751646872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chefe Esquilo Bazuka 60x60_33
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 2
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 420b42b37ff620d80800000000000000
+      internalID: -8285937256768425948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chefe Esquilo Bazuka 60x60_34
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 3
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46d2dc3a8753d91e0800000000000000
+      internalID: -2189535051571712668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chefe Esquilo Bazuka 60x60_35
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 4
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e39cf73f2d9052d10800000000000000
+      internalID: 2100095602871224638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
