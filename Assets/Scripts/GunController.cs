@@ -10,6 +10,7 @@ public class GunController : MonoBehaviour
     float nextfire;
     [SerializeField]
     public Animator anim;
+    public bool whip;
 
 
     [SerializeField]
@@ -39,8 +40,10 @@ public class GunController : MonoBehaviour
         if(Time.time > nextfire)
         {
             if (Input.GetButtonDown("Fire1"))
-            {   
-                anim.SetTrigger("Whip");
+            {   if(whip){
+                 anim.SetTrigger("Whip");
+            }
+               
                 nextfire = Time.time + firerate;
                 Instantiate(bullet, transform.position,transform.rotation);
                 Sound.instance.soundAttack.Play();

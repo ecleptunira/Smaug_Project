@@ -9,7 +9,7 @@ BlendTree:
   m_Name: Blend Tree
   m_Childs:
   - serializedVersion: 2
-    m_Motion: {fileID: 7400000, guid: db1143feeaf715f4aaf7d6d35f0a0e1b, type: 2}
+    m_Motion: {fileID: 7400000, guid: 22075c4d7035d8846aaaad584cf5551c, type: 2}
     m_Threshold: 0
     m_Position: {x: 0, y: -1}
     m_TimeScale: 1
@@ -17,7 +17,7 @@ BlendTree:
     m_DirectBlendParameter: X
     m_Mirror: 0
   - serializedVersion: 2
-    m_Motion: {fileID: 7400000, guid: 3d36405ad90a1554a9fa3b1c9ffe6137, type: 2}
+    m_Motion: {fileID: 7400000, guid: 5f796589d6d94394d8e13480c4d6fc2e, type: 2}
     m_Threshold: 0.33333334
     m_Position: {x: 1, y: 0}
     m_TimeScale: 1
@@ -25,7 +25,7 @@ BlendTree:
     m_DirectBlendParameter: X
     m_Mirror: 0
   - serializedVersion: 2
-    m_Motion: {fileID: 7400000, guid: b0f889d5ef1c1da4f8bd7c4db19a141d, type: 2}
+    m_Motion: {fileID: 7400000, guid: ce455374d471242449eb24672bf20438, type: 2}
     m_Threshold: 0.6666667
     m_Position: {x: -1, y: 0}
     m_TimeScale: 1
@@ -33,7 +33,7 @@ BlendTree:
     m_DirectBlendParameter: X
     m_Mirror: 0
   - serializedVersion: 2
-    m_Motion: {fileID: 7400000, guid: 4113fd7c0c91ca24eaa914326c5baecb, type: 2}
+    m_Motion: {fileID: 7400000, guid: 05f85b8d074d3e84cacf62645c2ecb01, type: 2}
     m_Threshold: 1
     m_Position: {x: 0, y: 1}
     m_TimeScale: 1
@@ -127,7 +127,7 @@ AnimatorController:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Enemy
+  m_Name: esquilo
   serializedVersion: 5
   m_AnimatorParameters:
   - m_Name: X
