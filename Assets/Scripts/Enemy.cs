@@ -7,7 +7,8 @@ public class Movement_enemyAnim : MonoBehaviour
     public float speed;
     public float checkRadius;
     public float attackRadius;
-    public Vector3 dir;
+    private Vector3 dir;
+  
 
 
     public bool shouldRotate;
@@ -29,7 +30,7 @@ public class Movement_enemyAnim : MonoBehaviour
     [SerializeField] ParticleSystem effectHurt;
     public int lifeEnemy = 2;
     public int lifeEnemyCurrent;
-    public int doDamage;
+    public bool squirrel;
 
 
     private void Start()
