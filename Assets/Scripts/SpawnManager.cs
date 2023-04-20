@@ -11,7 +11,7 @@ public class SpawnManager : MonoBehaviour
     GameObject player;
     
     int index;
-    int stockEnem = 35;
+    public int stockEnem;
     bool boss = true;
     float delay = 25;
 
