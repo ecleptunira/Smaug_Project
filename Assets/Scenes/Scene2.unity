@@ -4821,8 +4821,9 @@ MonoBehaviour:
   - {fileID: 323275186}
   - {fileID: 638839790}
   - {fileID: 1672453607}
-  enemy: {fileID: 8720696798269981633, guid: 8d0c3c5b8c711a3438c73260e20d3ce9, type: 3}
+  enemy: {fileID: 597846678979614825, guid: 57d57b4667a072542b08336cfc57d12c, type: 3}
   objectBoss: {fileID: 4322253494833245485, guid: 266ef82c1d8f38a459bedf54a9d393f9, type: 3}
+  stockEnem: 30
 --- !u!4 &430415146
 Transform:
   m_ObjectHideFlags: 0

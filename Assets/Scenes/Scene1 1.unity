@@ -4823,6 +4823,7 @@ MonoBehaviour:
   - {fileID: 1672453607}
   enemy: {fileID: 8720696798269981633, guid: 8d0c3c5b8c711a3438c73260e20d3ce9, type: 3}
   objectBoss: {fileID: 5619484861663096899, guid: cc519a214f6b5b046bed261066cd2996, type: 3}
+  stockEnem: 35
 --- !u!4 &430415146
 Transform:
   m_ObjectHideFlags: 0
@@ -6630,11 +6631,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5124310779522701972, guid: f8edfb44f54bb7e47b60d69d5769f4e2, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 43.24
+      value: -30.24
       objectReference: {fileID: 0}
     - target: {fileID: 5124310779522701972, guid: f8edfb44f54bb7e47b60d69d5769f4e2, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -34.75
+      value: -2.64
       objectReference: {fileID: 0}
     - target: {fileID: 5124310779522701972, guid: f8edfb44f54bb7e47b60d69d5769f4e2, type: 3}
       propertyPath: m_LocalPosition.z
