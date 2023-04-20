@@ -25,7 +25,10 @@ public class EnemyShooting : MonoBehaviour
     }
 
     void shoot()
-    {
-        Instantiate(bullet, bulletPos.position, Quaternion.identity);
+    {  
+        if(EnemyControll.isAlive){
+            Instantiate(bullet, bulletPos.position, Quaternion.identity);
+        }
+        
     }
 }
