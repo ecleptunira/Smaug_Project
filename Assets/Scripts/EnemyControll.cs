@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class EnemyControll : MonoBehaviour
 {   
@@ -103,8 +104,9 @@ public class EnemyControll : MonoBehaviour
             doEffectDestroy();
             isAlive = false;
             Sound.instance.soundEnemy.Play();
-             anim.SetTrigger("Dead");
-            //  Destroy(this.gameObject,0.1f);
+            anim.SetTrigger("Dead");
+            SceneManager.LoadScene("Scene2");
+            // Destroy(this.gameObject,0.1f);
            
         }
     }
