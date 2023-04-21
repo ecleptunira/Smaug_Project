@@ -61,7 +61,7 @@ public class GunController : MonoBehaviour
 
         Vector2 offset = new Vector2(mousePos.x - screenPoint.x, mousePos.y - screenPoint.y);
 
-        float angle = Mathf.Atan2(offset.y,offset.x) * Mathf.Deg2Rad2Deg;
+        float angle = Mathf.Atan2(offset.y,offset.x) * Mathf.Rad2Deg;
 
         transform.rotation = Quaternion.Euler(0, 0, angle);
 
