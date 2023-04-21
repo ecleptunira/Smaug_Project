@@ -28,6 +28,7 @@ public class EnemyShooting : MonoBehaviour
     {  
         if(EnemyControll.isAlive){
             Instantiate(bullet, bulletPos.position, Quaternion.identity);
+            Destroy(bullet, 5f);
         }
         
     }

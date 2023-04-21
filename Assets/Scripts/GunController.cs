@@ -8,6 +8,7 @@ public class GunController : MonoBehaviour
     public GameObject bullet;
     public float firerate;
     float nextfire;
+    
     [SerializeField]
     public Animator anim;
     public bool whip;
@@ -42,11 +43,13 @@ public class GunController : MonoBehaviour
             if (Input.GetButtonDown("Fire1"))
             {   if(whip){
                  anim.SetTrigger("Whip");
+                 
             }
                
                 nextfire = Time.time + firerate;
                 Instantiate(bullet, transform.position,transform.rotation);
                 Sound.instance.soundAttack.Play();
+                
             }
         }
         
@@ -58,10 +61,12 @@ public class GunController : MonoBehaviour
 
         Vector2 offset = new Vector2(mousePos.x - screenPoint.x, mousePos.y - screenPoint.y);
 
-        float angle = Mathf.Atan2(offset.y,offset.x) * Mathf.Rad2Deg;
+        float angle = Mathf.Atan2(offset.y,offset.x) * Mathf.Deg2Rad2Deg;
 
         transform.rotation = Quaternion.Euler(0, 0, angle);
 
-        sprite.flipY = (mousePos.x < screenPoint.x);
+       sprite.flipY = (mousePos.x < screenPoint.x);
+         
     }
+       
 }
