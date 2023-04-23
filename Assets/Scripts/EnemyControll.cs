@@ -9,6 +9,7 @@ public class EnemyControll : MonoBehaviour
     public float checkRadius;
     public float attackRadius;
     private Vector3 dir;
+    public bool scene2;
 
   
 
@@ -105,8 +106,13 @@ public class EnemyControll : MonoBehaviour
             isAlive = false;
             Sound.instance.soundEnemy.Play();
             anim.SetTrigger("Dead");
-            SceneManager.LoadScene("Scene2");
-            // Destroy(this.gameObject,0.1f);
+            if(scene2){
+                SceneManager.LoadScene("Win");
+            }else{
+                SceneManager.LoadScene("Scene2");
+            }
+             
+            
            
         }
     }

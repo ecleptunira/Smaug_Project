@@ -65,7 +65,7 @@ public class GunController : MonoBehaviour
 
         transform.rotation = Quaternion.Euler(0, 0, angle);
 
-       sprite.flipY = (mousePos.x < screenPoint.x);
+    //    sprite.flipY = (mousePos.x < screenPoint.x);
          
     }
        

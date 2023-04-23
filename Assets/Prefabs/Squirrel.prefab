@@ -280,6 +280,7 @@ MonoBehaviour:
   speed: 4
   checkRadius: 10
   attackRadius: 2
+  scene2: 0
   shouldRotate: 1
   WhatIsPlayer:
     serializedVersion: 2
