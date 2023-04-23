@@ -10,12 +10,19 @@ public class Movement : MonoBehaviour
     public float speed;
     public GameObject lastDialogue;
     [SerializeField] ParticleSystem hurt;
-
+    
+    
     public int life;
     public int lifeCurrent;
 
+    void Start(){
+        
+    }
+
     void Update()
-    {
+    {   
+        
+        
         Vector3 movement = new Vector3(Input.GetAxis("Horizontal"), Input.GetAxis("Vertical"));
         anim.SetFloat("Horizontal", movement.x);
         anim.SetFloat("Vertical", movement.y);
@@ -40,6 +47,10 @@ public class Movement : MonoBehaviour
                 Time.timeScale = 0f;
             }
            
+        }else if(collision.gameObject.CompareTag("Boss")){
+            Destroy(gameObject);
+            lastDialogue.SetActive(true);
+            Time.timeScale = 0f;
         }
 
         
