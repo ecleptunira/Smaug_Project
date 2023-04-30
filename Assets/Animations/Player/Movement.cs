@@ -3,7 +3,8 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class Movement : MonoBehaviour
-{
+{   
+    
     [SerializeField]
     public Animator anim;
     [SerializeField]
@@ -37,6 +38,7 @@ public class Movement : MonoBehaviour
     private void OnTriggerEnter2D(Collider2D collision){
         if(collision.gameObject.CompareTag("Enemy") || collision.gameObject.CompareTag("Nut")){
             lifeCurrent -= 1;
+            HealthBar.currentLife --;
             Destroy(collision.gameObject);
             doHurt();
             Sound.instance.soundPlayer.Play();
