@@ -1,0 +1,973 @@
+fileFormatVersion: 2
+guid: 7492e34d31b479b428b1179fc8e725e0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5569545393234515935
+    second: Inimigo2Andando60x60_0
+  - first:
+      213: -955078563657628257
+    second: Inimigo2Andando60x60_1
+  - first:
+      213: 4359898872838142063
+    second: Inimigo2Andando60x60_2
+  - first:
+      213: -4929726331998281370
+    second: Inimigo2Andando60x60_3
+  - first:
+      213: 14422627966756518
+    second: Inimigo2Andando60x60_4
+  - first:
+      213: -5468722005309735989
+    second: Inimigo2Andando60x60_5
+  - first:
+      213: -4305044285370380270
+    second: Inimigo2Andando60x60_6
+  - first:
+      213: -7546005278986161932
+    second: Inimigo2Andando60x60_7
+  - first:
+      213: -4470734164414968683
+    second: Inimigo2Andando60x60_8
+  - first:
+      213: 4009181479844182180
+    second: Inimigo2Andando60x60_9
+  - first:
+      213: 7234621934342740369
+    second: Inimigo2Andando60x60_10
+  - first:
+      213: -8385356506306956877
+    second: Inimigo2Andando60x60_11
+  - first:
+      213: 1356497147395335351
+    second: Inimigo2Andando60x60_12
+  - first:
+      213: 2005121562523548009
+    second: Inimigo2Andando60x60_13
+  - first:
+      213: -8660078316970187788
+    second: Inimigo2Andando60x60_14
+  - first:
+      213: 486949214010842194
+    second: Inimigo2Andando60x60_15
+  - first:
+      213: -9138849667162576166
+    second: Inimigo2Andando60x60_16
+  - first:
+      213: -2404634835734295985
+    second: Inimigo2Andando60x60_17
+  - first:
+      213: -5589847071437720367
+    second: Inimigo2Andando60x60_18
+  - first:
+      213: -2182241561518691486
+    second: Inimigo2Andando60x60_19
+  - first:
+      213: -3890444781217455940
+    second: Inimigo2Andando60x60_20
+  - first:
+      213: -9117043375300548301
+    second: Inimigo2Andando60x60_21
+  - first:
+      213: -6613550182756148444
+    second: Inimigo2Andando60x60_22
+  - first:
+      213: -7478572595899587300
+    second: Inimigo2Andando60x60_23
+  - first:
+      213: 127324762613603108
+    second: Inimigo2Andando60x60_24
+  - first:
+      213: 2884652138016486685
+    second: Inimigo2Andando60x60_25
+  - first:
+      213: 2380808132961647556
+    second: Inimigo2Andando60x60_26
+  - first:
+      213: 3943737418200753913
+    second: Inimigo2Andando60x60_27
+  - first:
+      213: 3593334678829027191
+    second: Inimigo2Andando60x60_28
+  - first:
+      213: 5531678760944352814
+    second: Inimigo2Andando60x60_29
+  - first:
+      213: 5708250094504420415
+    second: Inimigo2Andando60x60_30
+  - first:
+      213: -4178240726620811772
+    second: Inimigo2Andando60x60_31
+  - first:
+      213: -6600671543427706913
+    second: Inimigo2Andando60x60_32
+  - first:
+      213: 2217728406324721857
+    second: Inimigo2Andando60x60_33
+  - first:
+      213: -1246650446425438557
+    second: Inimigo2Andando60x60_34
+  - first:
+      213: -1346165780907171746
+    second: Inimigo2Andando60x60_35
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 60
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Inimigo2Andando60x60_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 181
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 128e7db39fff4b2b0800000000000000
+      internalID: -5569545393234515935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inimigo2Andando60x60_1
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 181
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f95c8984b11eeb2f0800000000000000
+      internalID: -955078563657628257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inimigo2Andando60x60_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 181
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f68b424dce8718c30800000000000000
+      internalID: 4359898872838142063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inimigo2Andando60x60_3
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 181
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6616a551508169bb0800000000000000
+      internalID: -4929726331998281370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inimigo2Andando60x60_4
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 181
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a6afa0cd4d333000800000000000000
+      internalID: 14422627966756518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inimigo2Andando60x60_5
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 181
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcbb62a8f423b14b0800000000000000
+      internalID: -5468722005309735989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inimigo2Andando60x60_6
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 181
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2105c2418096144c0800000000000000
+      internalID: -4305044285370380270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inimigo2Andando60x60_7
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 181
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f0bec0ed24374790800000000000000
+      internalID: -7546005278986161932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inimigo2Andando60x60_8
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 180
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59cc7d4e6f2c4f1c0800000000000000
+      internalID: -4470734164414968683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inimigo2Andando60x60_9
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 120
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a8ff2a705973a730800000000000000
+      internalID: 4009181479844182180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inimigo2Andando60x60_10
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 120
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1999fb0915a866460800000000000000
+      internalID: 7234621934342740369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inimigo2Andando60x60_11
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 120
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b1309e5faa31ab80800000000000000
+      internalID: -8385356506306956877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inimigo2Andando60x60_12
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 120
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b46451f7fe33d210800000000000000
+      internalID: 1356497147395335351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inimigo2Andando60x60_13
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 120
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96931b1007f93db10800000000000000
+      internalID: 2005121562523548009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inimigo2Andando60x60_14
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 120
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f3eded57a831d780800000000000000
+      internalID: -8660078316970187788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inimigo2Andando60x60_15
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 120
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25c95cceabdf1c600800000000000000
+      internalID: 486949214010842194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inimigo2Andando60x60_16
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 120
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adae31db5a84c2180800000000000000
+      internalID: -9138849667162576166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inimigo2Andando60x60_17
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 120
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4a07817b5501aed0800000000000000
+      internalID: -2404634835734295985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inimigo2Andando60x60_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 60
+        width: 42
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d4723e64bfdc62b0800000000000000
+      internalID: -5589847071437720367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inimigo2Andando60x60_19
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 0
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26ba59f9cde17b1e0800000000000000
+      internalID: -2182241561518691486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inimigo2Andando60x60_20
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb0e24d751d520ac0800000000000000
+      internalID: -3890444781217455940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inimigo2Andando60x60_21
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 60
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 339e165ba51c97180800000000000000
+      internalID: -9117043375300548301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inimigo2Andando60x60_22
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 0
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42b999c1623f734a0800000000000000
+      internalID: -6613550182756148444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inimigo2Andando60x60_23
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 60
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c152f62e8d5c63890800000000000000
+      internalID: -7478572595899587300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inimigo2Andando60x60_24
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 60
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42bd1be623954c100800000000000000
+      internalID: 127324762613603108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inimigo2Andando60x60_25
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 0
+        width: 46
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d153b0306d7580820800000000000000
+      internalID: 2884652138016486685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inimigo2Andando60x60_26
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 60
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cb3a8302645a0120800000000000000
+      internalID: 2380808132961647556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inimigo2Andando60x60_27
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 1
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f6a54b7948fab630800000000000000
+      internalID: 3943737418200753913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inimigo2Andando60x60_28
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 60
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77f42b22ad61ed130800000000000000
+      internalID: 3593334678829027191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inimigo2Andando60x60_29
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 0
+        width: 43
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2e39a5668874cc40800000000000000
+      internalID: 5531678760944352814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inimigo2Andando60x60_30
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 60
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f34a604a737c73f40800000000000000
+      internalID: 5708250094504420415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inimigo2Andando60x60_31
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 60
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40e42b74238e306c0800000000000000
+      internalID: -4178240726620811772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inimigo2Andando60x60_32
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 0
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdf46fef334b564a0800000000000000
+      internalID: -6600671543427706913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inimigo2Andando60x60_33
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 49
+        width: 48
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c8374b4c34f6ce10800000000000000
+      internalID: 2217728406324721857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inimigo2Andando60x60_34
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 0
+        width: 44
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a6cab5260203bee0800000000000000
+      internalID: -1246650446425438557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Inimigo2Andando60x60_35
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 0
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e50ed34ca55715de0800000000000000
+      internalID: -1346165780907171746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
