@@ -20,13 +20,16 @@ public class SpawnManager : MonoBehaviour
     void Start()
     {   
         player = GameObject.FindGameObjectWithTag("Player");
-        
+        boss = false;
         InvokeRepeating("SpawnEnemies", 0.5f, 1f);
     }
 
     void Update()
     {
-        
+        if(stockEnem <=0 && !boss){
+            boss = true;
+            Invoke("Boss", 10f);
+        }
     }
 
     void SpawnEnemies(){
@@ -35,15 +38,12 @@ public class SpawnManager : MonoBehaviour
                 int index = Random.Range(0, 5);
                 Instantiate(enemy, spawnPoints[index].position, Quaternion.identity);
                 stockEnem--;
-            }else if (boss){
-                if(Time.time > delay){
-                   Instantiate(objectBoss, spawnPoints[4].position, Quaternion.identity);
-                   boss = false;   
-                }
-                
             }
-
         
         }
+    }
+
+    void Boss(){
+        Instantiate(objectBoss, spawnPoints[4].position, Quaternion.identity);
     }
 }
