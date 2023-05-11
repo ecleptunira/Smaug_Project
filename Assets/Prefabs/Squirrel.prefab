@@ -289,7 +289,6 @@ MonoBehaviour:
   effectDestroy: {fileID: 7181927933332002972, guid: e22b2ffe4d6583e4fa90f8a86e6ca8f5, type: 3}
   effectHurt: {fileID: 597796975873730456, guid: da6581fcfea6b0046a83e4b2e3aeb644, type: 3}
   lifeEnemy: 3
-  lifeEnemyCurrent: 3
   doDamage: 1
 --- !u!1 &6853147608409428468
 GameObject:

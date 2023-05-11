@@ -71,7 +71,10 @@ public class Enemy : MonoBehaviour
         }
         if (isInAttackRange)
         {
-            rb.velocity = Vector2.zero;
+            if(!rb.isKinematic) {
+                rb.velocity = Vector2.zero;
+            }
+       
         }
     }
 

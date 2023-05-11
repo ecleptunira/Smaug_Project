@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class LastDialogue : MonoBehaviour
 {
@@ -13,23 +14,29 @@ public class LastDialogue : MonoBehaviour
     private void Start()
     {
         target = GameObject.FindWithTag("Player").transform;
+        Time.timeScale = 0;
     }
 
     public void NextDialogue(){
         dialogue[cont].SetActive(false);
         cont++;
-        if(cont < 2){
+        if(cont < dialogue.Length){
             dialogue[cont].SetActive(true);
             
         }
         
     }
 
+    
     public void ShowScreenGame(){
         if(target != null){
             gameWin.SetActive(true);
         }else{
             gameOver.SetActive(true);
         }
+    }
+
+    public void Scene2(){
+        SceneManager.LoadScene("Scene2");
     }
 }

@@ -132,7 +132,6 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
-  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -177,7 +176,7 @@ TextureImporter:
     buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
     resizeAlgorithm: 0
-    textureFormat: -1
+    textureFormat: 4
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
@@ -189,7 +188,7 @@ TextureImporter:
     buildTarget: Standalone
     maxTextureSize: 2048
     resizeAlgorithm: 0
-    textureFormat: -1
+    textureFormat: 4
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
@@ -990,43 +989,6 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable:
-      MedeiroAndando60x60_13: -7352020177461533156
-      MedeiroAndando60x60_6: -3007090689584127841
-      MedeiroAndando60x60_31: -8930891136291460871
-      MedeiroAndando60x60_7: 3591846898415494672
-      MedeiroAndando60x60_3: 6154942136759788398
-      MedeiroAndando60x60_9: 1212730089427223450
-      MedeiroAndando60x60_24: -5810586941675748386
-      MedeiroAndando60x60_20: 7333641946600522657
-      MedeiroAndando60x60_27: 8868701302717915362
-      MedeiroAndando60x60_11: -5408336097859980773
-      MedeiroAndando60x60_4: -8960095581501084544
-      MedeiroAndando60x60_28: -6308337202524177021
-      MedeiroAndando60x60_34: -3253653860094996300
-      MedeiroAndando60x60_10: -6644554032917439066
-      MedeiroAndando60x60_35: -464289095439289609
-      MedeiroAndando60x60_26: 6356161434025870340
-      MedeiroAndando60x60_14: 8849868689731529312
-      MedeiroAndando60x60_25: -3436063555557201616
-      MedeiroAndando60x60_15: -1685153785240447491
-      MedeiroAndando60x60_18: 7906918389764881462
-      MedeiroAndando60x60_1: -5461613817837746372
-      MedeiroAndando60x60_5: 3606372032566925704
-      MedeiroAndando60x60_32: -7076836621883959952
-      MedeiroAndando60x60_8: 5935248623061083044
-      MedeiroAndando60x60_33: -3034754263434791462
-      MedeiroAndando60x60_0: 7540420311509926384
-      MedeiroAndando60x60_16: -94333128944123070
-      MedeiroAndando60x60_19: 4071763924013722102
-      MedeiroAndando60x60_23: -2319503350917008157
-      MedeiroAndando60x60_22: -911881644827345190
-      MedeiroAndando60x60_2: -7630931844865355362
-      MedeiroAndando60x60_12: 5896367370880414454
-      MedeiroAndando60x60_21: 187674485419566969
-      MedeiroAndando60x60_30: -3650276588651647806
-      MedeiroAndando60x60_17: 2818664608350026710
-      MedeiroAndando60x60_29: -6669135077017008781
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

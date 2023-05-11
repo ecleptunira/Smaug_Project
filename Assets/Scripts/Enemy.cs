@@ -21,7 +21,7 @@ public class Movement_enemyAnim : MonoBehaviour
     private Vector2 movement;
     private bool isInChaseRange;
     private bool isInAttackRange;
-    bool isAlive = true;
+    public static bool isAlive = true;
 
 
 
@@ -95,9 +95,7 @@ public class Movement_enemyAnim : MonoBehaviour
         lifeEnemyCurrent -= damaged;
         doEffectHurt();
         
-        
-
-        if(lifeEnemyCurrent <= 0){
+       if(lifeEnemyCurrent <= 0){
             doEffectDestroy();
             isAlive = false;
             Sound.instance.soundEnemy.Play();

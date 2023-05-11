@@ -10,7 +10,10 @@ public class Movement : MonoBehaviour
     [SerializeField]
     public float speed;
     public GameObject lastDialogue;
+    
+  
     [SerializeField] ParticleSystem hurt;
+
     
     
     public int life;
@@ -36,6 +39,7 @@ public class Movement : MonoBehaviour
     }
    
     private void OnTriggerEnter2D(Collider2D collision){
+        
         if(collision.gameObject.CompareTag("Enemy") || collision.gameObject.CompareTag("Nut")){
             lifeCurrent -= 1;
             HealthBar.currentLife --;
@@ -50,6 +54,7 @@ public class Movement : MonoBehaviour
             }
            
         }else if(collision.gameObject.CompareTag("Boss")){
+            
             Destroy(gameObject);
             lastDialogue.SetActive(true);
             Time.timeScale = 0f;

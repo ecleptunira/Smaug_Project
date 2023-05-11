@@ -132,7 +132,6 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
-  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -177,7 +176,7 @@ TextureImporter:
     buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
     resizeAlgorithm: 0
-    textureFormat: -1
+    textureFormat: 4
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
@@ -189,7 +188,7 @@ TextureImporter:
     buildTarget: Standalone
     maxTextureSize: 2048
     resizeAlgorithm: 0
-    textureFormat: -1
+    textureFormat: 4
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
@@ -990,43 +989,6 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable:
-      InimigoAndando60x60_22: -1575328927375760279
-      InimigoAndando60x60_10: -5848586958103370914
-      InimigoAndando60x60_25: 1846560982863080818
-      InimigoAndando60x60_12: 8396239933425082986
-      InimigoAndando60x60_33: 4416422412799596165
-      InimigoAndando60x60_35: 5187097640403193663
-      InimigoAndando60x60_4: 8956106771710176148
-      InimigoAndando60x60_7: 3399498339056519705
-      InimigoAndando60x60_31: 6193986577857449255
-      InimigoAndando60x60_2: 4333491484782135313
-      InimigoAndando60x60_13: -10594623287574322
-      InimigoAndando60x60_11: -716686623283534141
-      InimigoAndando60x60_9: 5790272390710265706
-      InimigoAndando60x60_19: 5690641596288970431
-      InimigoAndando60x60_16: 5526800263182295672
-      InimigoAndando60x60_20: -454480720321629817
-      InimigoAndando60x60_26: -4503356769831400229
-      InimigoAndando60x60_3: 1678831085586345720
-      InimigoAndando60x60_8: 6401564982233322923
-      InimigoAndando60x60_24: 5962204777511606366
-      InimigoAndando60x60_1: 8691370978512629201
-      InimigoAndando60x60_34: 6043512403381924852
-      InimigoAndando60x60_15: 413129470344957353
-      InimigoAndando60x60_0: 7281793019783398464
-      InimigoAndando60x60_27: -3842428756839452504
-      InimigoAndando60x60_30: -4536717071575492741
-      InimigoAndando60x60_6: 6288783436721314308
-      InimigoAndando60x60_5: -586508312745208630
-      InimigoAndando60x60_18: 5623320225506176284
-      InimigoAndando60x60_21: -5163869737437428232
-      InimigoAndando60x60_17: 4395469655567502991
-      InimigoAndando60x60_28: 7015839597801066441
-      InimigoAndando60x60_29: -5087331860298817346
-      InimigoAndando60x60_23: -2424494168150694526
-      InimigoAndando60x60_14: -7829349773773691811
-      InimigoAndando60x60_32: 791956263391464601
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

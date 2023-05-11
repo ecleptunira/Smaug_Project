@@ -1,0 +1,973 @@
+fileFormatVersion: 2
+guid: 3969f4b65041e8a44aef5b26a2f50d3d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6708027867978505868
+    second: Periquito 60x60_0
+  - first:
+      213: -6151235104446373781
+    second: Periquito 60x60_1
+  - first:
+      213: 9124579392354771492
+    second: Periquito 60x60_2
+  - first:
+      213: -854565530278081688
+    second: Periquito 60x60_3
+  - first:
+      213: 254774096649888611
+    second: Periquito 60x60_4
+  - first:
+      213: -3230453285270133071
+    second: Periquito 60x60_5
+  - first:
+      213: -138228024305899046
+    second: Periquito 60x60_6
+  - first:
+      213: 356334237796970788
+    second: Periquito 60x60_7
+  - first:
+      213: 6358450744811242095
+    second: Periquito 60x60_8
+  - first:
+      213: 4395038999163768423
+    second: Periquito 60x60_9
+  - first:
+      213: 7626949774656413244
+    second: Periquito 60x60_10
+  - first:
+      213: 1825464587261836481
+    second: Periquito 60x60_11
+  - first:
+      213: -1101153615275460103
+    second: Periquito 60x60_12
+  - first:
+      213: -7092862932236697819
+    second: Periquito 60x60_13
+  - first:
+      213: -355087843678742885
+    second: Periquito 60x60_14
+  - first:
+      213: -4391897817146219926
+    second: Periquito 60x60_15
+  - first:
+      213: 1377634998903116297
+    second: Periquito 60x60_16
+  - first:
+      213: 4226451761634363853
+    second: Periquito 60x60_17
+  - first:
+      213: 4745324656332586152
+    second: Periquito 60x60_18
+  - first:
+      213: 541230684066669347
+    second: Periquito 60x60_19
+  - first:
+      213: 4890586031796004295
+    second: Periquito 60x60_20
+  - first:
+      213: 7151004993251508655
+    second: Periquito 60x60_21
+  - first:
+      213: -2246756431682561058
+    second: Periquito 60x60_22
+  - first:
+      213: -3629917520188669603
+    second: Periquito 60x60_23
+  - first:
+      213: 8493235804614142957
+    second: Periquito 60x60_24
+  - first:
+      213: 6188548370915170982
+    second: Periquito 60x60_25
+  - first:
+      213: 3207931633346793277
+    second: Periquito 60x60_26
+  - first:
+      213: 4253882742495588146
+    second: Periquito 60x60_27
+  - first:
+      213: 1097864292012304438
+    second: Periquito 60x60_28
+  - first:
+      213: 9009712501620758908
+    second: Periquito 60x60_29
+  - first:
+      213: 8080116260953196876
+    second: Periquito 60x60_30
+  - first:
+      213: -2445537162074677950
+    second: Periquito 60x60_31
+  - first:
+      213: -8556065560748193903
+    second: Periquito 60x60_32
+  - first:
+      213: -8717468070541393540
+    second: Periquito 60x60_33
+  - first:
+      213: -2031873563339479095
+    second: Periquito 60x60_34
+  - first:
+      213: 6781955469941093397
+    second: Periquito 60x60_35
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Periquito 60x60_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 181
+        width: 30
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8e97462ec3b71d50800000000000000
+      internalID: 6708027867978505868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periquito 60x60_1
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 181
+        width: 30
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b60af8d534c62aaa0800000000000000
+      internalID: -6151235104446373781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periquito 60x60_2
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 422e72efc9401ae70800000000000000
+      internalID: 9124579392354771492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periquito 60x60_3
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 180
+        width: 30
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86b4b7a8d29f324f0800000000000000
+      internalID: -854565530278081688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periquito 60x60_4
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 180
+        width: 31
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 363a9c8e0b3298300800000000000000
+      internalID: 254774096649888611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periquito 60x60_5
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 181
+        width: 35
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b6eafb4adf1b23d0800000000000000
+      internalID: -3230453285270133071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periquito 60x60_6
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 180
+        width: 39
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad92e31285ae41ef0800000000000000
+      internalID: -138228024305899046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periquito 60x60_7
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 180
+        width: 30
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 421b231f914f1f400800000000000000
+      internalID: 356334237796970788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periquito 60x60_8
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 180
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f62ca4e8341cd3850800000000000000
+      internalID: 6358450744811242095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periquito 60x60_9
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 121
+        width: 29
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76e052f0fa05efc30800000000000000
+      internalID: 4395038999163768423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periquito 60x60_10
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 121
+        width: 29
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3e1426296e58d960800000000000000
+      internalID: 7626949774656413244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periquito 60x60_11
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 122
+        width: 29
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ccfbc1de5a555910800000000000000
+      internalID: 1825464587261836481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periquito 60x60_12
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 122
+        width: 29
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f97e5efe9ae7b0f0800000000000000
+      internalID: -1101153615275460103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periquito 60x60_13
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 121
+        width: 29
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52ffe732eb6119d90800000000000000
+      internalID: -7092862932236697819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periquito 60x60_14
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 121
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b96187dcc79721bf0800000000000000
+      internalID: -355087843678742885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periquito 60x60_15
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 121
+        width: 29
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a62af2f5438dc03c0800000000000000
+      internalID: -4391897817146219926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periquito 60x60_16
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 121
+        width: 29
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90214c38bb75e1310800000000000000
+      internalID: 1377634998903116297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periquito 60x60_17
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 121
+        width: 29
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc94a880c7f57aa30800000000000000
+      internalID: 4226451761634363853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periquito 60x60_18
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 61
+        width: 29
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ac3b9412a7cad140800000000000000
+      internalID: 4745324656332586152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periquito 60x60_19
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 61
+        width: 29
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 323e5598076d28700800000000000000
+      internalID: 541230684066669347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periquito 60x60_20
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 62
+        width: 29
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c520b0a51aded340800000000000000
+      internalID: 4890586031796004295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periquito 60x60_21
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 62
+        width: 29
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa10dc957297d3360800000000000000
+      internalID: 7151004993251508655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periquito 60x60_22
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 61
+        width: 29
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edb9cb0edeae1d0e0800000000000000
+      internalID: -2246756431682561058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periquito 60x60_23
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 61
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d51003d5f31ff9dc0800000000000000
+      internalID: -3629917520188669603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periquito 60x60_24
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 61
+        width: 29
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deba7a717f80ed570800000000000000
+      internalID: 8493235804614142957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periquito 60x60_25
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 61
+        width: 29
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aa98bb74f322e550800000000000000
+      internalID: 6188548370915170982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periquito 60x60_26
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 61
+        width: 29
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3fcf5df2dcd48c20800000000000000
+      internalID: 3207931633346793277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periquito 60x60_27
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 3
+        width: 31
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23f2d96f0d3d80b30800000000000000
+      internalID: 4253882742495588146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periquito 60x60_28
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 3
+        width: 31
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 638aaf0c1c56c3f00800000000000000
+      internalID: 1097864292012304438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periquito 60x60_29
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 2
+        width: 31
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c795083e8cde80d70800000000000000
+      internalID: 9009712501620758908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periquito 60x60_30
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1
+        width: 31
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4909f5dde6522070800000000000000
+      internalID: 8080116260953196876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periquito 60x60_31
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 2
+        width: 31
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24d958978e4bf0ed0800000000000000
+      internalID: -2445537162074677950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periquito 60x60_32
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 3
+        width: 31
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19786a854bfb24980800000000000000
+      internalID: -8556065560748193903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periquito 60x60_33
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 2
+        width: 31
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c71029a1af4550780800000000000000
+      internalID: -8717468070541393540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periquito 60x60_34
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 3
+        width: 31
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c7a4ac62c55dc3e0800000000000000
+      internalID: -2031873563339479095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Periquito 60x60_35
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 4
+        width: 31
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5143b5c41985e1e50800000000000000
+      internalID: 6781955469941093397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
