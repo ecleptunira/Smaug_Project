@@ -42,12 +42,15 @@ public class Movement : MonoBehaviour
         
         if(collision.gameObject.CompareTag("Enemy") || collision.gameObject.CompareTag("Nut")){
             lifeCurrent -= 1;
-            HealthBar.currentLife --;
+            HealthBar.currentLife = lifeCurrent;
             Destroy(collision.gameObject);
             doHurt();
             Sound.instance.soundPlayer.Play();
+            
+            
 
-            if(lifeCurrent <= 0){
+            if(HealthBar.currentLife < 0 ){
+                
                 Destroy(gameObject);
                 lastDialogue.SetActive(true);
                 Time.timeScale = 0f;

@@ -5,12 +5,12 @@ using UnityEngine;
 public class HealthBar : MonoBehaviour
 {
     public int maxLife;
-    public static int currentLife = 10;
+    public static int currentLife;
 
     // Start is called before the first frame update
     void Start()
     {
-        transform.localScale = new Vector3(10 * 100/maxLife, 23, 1);
+        currentLife = 10;
     }
 
     // Update is called once per frame

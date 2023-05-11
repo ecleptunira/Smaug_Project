@@ -2260,6 +2260,22 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 8613383981170912992}
     m_Modifications:
+    - target: {fileID: 7261320029650818456, guid: c6a1c5820aaf2db4aae9540f9df2e4c3, type: 3}
+      propertyPath: maxLife
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 7261320029650818459, guid: c6a1c5820aaf2db4aae9540f9df2e4c3, type: 3}
+      propertyPath: m_Color.b
+      value: 0.10128
+      objectReference: {fileID: 0}
+    - target: {fileID: 7261320029650818459, guid: c6a1c5820aaf2db4aae9540f9df2e4c3, type: 3}
+      propertyPath: m_Color.g
+      value: 0.027450979
+      objectReference: {fileID: 0}
+    - target: {fileID: 7261320029650818459, guid: c6a1c5820aaf2db4aae9540f9df2e4c3, type: 3}
+      propertyPath: m_Color.r
+      value: 0.85882354
+      objectReference: {fileID: 0}
     - target: {fileID: 7261320029650818462, guid: c6a1c5820aaf2db4aae9540f9df2e4c3, type: 3}
       propertyPath: m_Name
       value: Bar
