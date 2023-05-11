@@ -1,0 +1,973 @@
+fileFormatVersion: 2
+guid: 6865729231c417844b39356240898320
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5319600411040661926
+    second: Cegonha 60x60_0
+  - first:
+      213: -5080932947836521539
+    second: Cegonha 60x60_1
+  - first:
+      213: -7357236735711704126
+    second: Cegonha 60x60_2
+  - first:
+      213: -8059149595379971238
+    second: Cegonha 60x60_3
+  - first:
+      213: -2639696449167806922
+    second: Cegonha 60x60_4
+  - first:
+      213: -3836243290127737274
+    second: Cegonha 60x60_5
+  - first:
+      213: 6444708139374079294
+    second: Cegonha 60x60_6
+  - first:
+      213: -1634625534810754656
+    second: Cegonha 60x60_7
+  - first:
+      213: 3550524145092518875
+    second: Cegonha 60x60_8
+  - first:
+      213: -1529821105480650216
+    second: Cegonha 60x60_9
+  - first:
+      213: -751516659613943026
+    second: Cegonha 60x60_10
+  - first:
+      213: 7610491526531869720
+    second: Cegonha 60x60_11
+  - first:
+      213: -3724073176265037307
+    second: Cegonha 60x60_12
+  - first:
+      213: 6056822791323411073
+    second: Cegonha 60x60_13
+  - first:
+      213: -4880023746636474095
+    second: Cegonha 60x60_14
+  - first:
+      213: -786432936074432010
+    second: Cegonha 60x60_15
+  - first:
+      213: 9003172132203698104
+    second: Cegonha 60x60_16
+  - first:
+      213: 1975855736343175824
+    second: Cegonha 60x60_17
+  - first:
+      213: -6682706004523691662
+    second: Cegonha 60x60_18
+  - first:
+      213: 5692279937856023696
+    second: Cegonha 60x60_19
+  - first:
+      213: -4707386244278899402
+    second: Cegonha 60x60_20
+  - first:
+      213: -4654083808989299180
+    second: Cegonha 60x60_21
+  - first:
+      213: 6279727094134640809
+    second: Cegonha 60x60_22
+  - first:
+      213: -2095401773646907158
+    second: Cegonha 60x60_23
+  - first:
+      213: 5718236996201655513
+    second: Cegonha 60x60_24
+  - first:
+      213: -9205822806107775916
+    second: Cegonha 60x60_25
+  - first:
+      213: -227702232499961797
+    second: Cegonha 60x60_26
+  - first:
+      213: -1522628589093125647
+    second: Cegonha 60x60_27
+  - first:
+      213: -724287804981194811
+    second: Cegonha 60x60_28
+  - first:
+      213: 7694783512908097742
+    second: Cegonha 60x60_29
+  - first:
+      213: 1012965459129558486
+    second: Cegonha 60x60_30
+  - first:
+      213: -5806745240426824273
+    second: Cegonha 60x60_31
+  - first:
+      213: 5175461311858812954
+    second: Cegonha 60x60_32
+  - first:
+      213: 7336622244818669551
+    second: Cegonha 60x60_33
+  - first:
+      213: 4007467617921082348
+    second: Cegonha 60x60_34
+  - first:
+      213: 2897350072107268152
+    second: Cegonha 60x60_35
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cegonha 60x60_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 181
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5e36e05c9bfc26b0800000000000000
+      internalID: -5319600411040661926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cegonha 60x60_1
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 181
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db330a46766ec79b0800000000000000
+      internalID: -5080932947836521539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cegonha 60x60_2
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 180
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cb037f4b28d5e990800000000000000
+      internalID: -7357236735711704126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cegonha 60x60_3
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 180
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5bc4a76426282090800000000000000
+      internalID: -8059149595379971238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cegonha 60x60_4
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 180
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63e2e70b01aed5bd0800000000000000
+      internalID: -2639696449167806922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cegonha 60x60_5
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 181
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64ed5fb8d0de2cac0800000000000000
+      internalID: -3836243290127737274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cegonha 60x60_6
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 180
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3de57048e3307950800000000000000
+      internalID: 6444708139374079294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cegonha 60x60_7
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 180
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a172d89cb4a059e0800000000000000
+      internalID: -1634625534810754656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cegonha 60x60_8
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 181
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd3efa206eef54130800000000000000
+      internalID: 3550524145092518875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cegonha 60x60_9
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 122
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8123ee55fcbf4cae0800000000000000
+      internalID: -1529821105480650216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cegonha 60x60_10
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 121
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0b3cec64931295f0800000000000000
+      internalID: -751516659613943026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cegonha 60x60_11
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 121
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81c6d05a8b5ed9960800000000000000
+      internalID: 7610491526531869720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cegonha 60x60_12
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 121
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50a692b5d2f615cc0800000000000000
+      internalID: -3724073176265037307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cegonha 60x60_13
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 122
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18262500d382e0450800000000000000
+      internalID: 6056822791323411073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cegonha 60x60_14
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 122
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1191346024ca64cb0800000000000000
+      internalID: -4880023746636474095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cegonha 60x60_15
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 122
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f1bd9d49670615f0800000000000000
+      internalID: -786432936074432010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cegonha 60x60_16
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 121
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b792b77a51b1fc70800000000000000
+      internalID: 9003172132203698104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cegonha 60x60_17
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 121
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 092272cd256ab6b10800000000000000
+      internalID: 1975855736343175824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cegonha 60x60_18
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 61
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 271defd9b424243a0800000000000000
+      internalID: -6682706004523691662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cegonha 60x60_19
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 61
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09cadf9c17a0ffe40800000000000000
+      internalID: 5692279937856023696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cegonha 60x60_20
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 62
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63d2231d6210caeb0800000000000000
+      internalID: -4707386244278899402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cegonha 60x60_21
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 62
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41ebb422f6f596fb0800000000000000
+      internalID: -4654083808989299180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cegonha 60x60_22
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 62
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a09a4c4582162750800000000000000
+      internalID: 6279727094134640809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cegonha 60x60_23
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 61
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae87d045033abe2e0800000000000000
+      internalID: -2095401773646907158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cegonha 60x60_24
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 61
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dca81460424b5f40800000000000000
+      internalID: 5718236996201655513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cegonha 60x60_25
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 61
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45c91c0bee85e3080800000000000000
+      internalID: -9205822806107775916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cegonha 60x60_26
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 62
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b30c645a60a07dcf0800000000000000
+      internalID: -227702232499961797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cegonha 60x60_27
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 0
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f1004e8d598edae0800000000000000
+      internalID: -1522628589093125647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cegonha 60x60_28
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 0
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cfc2fc2410d2f5f0800000000000000
+      internalID: -724287804981194811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cegonha 60x60_29
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 0
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec86b6616dc59ca60800000000000000
+      internalID: 7694783512908097742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cegonha 60x60_30
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 0
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d56829d7b6ce0e00800000000000000
+      internalID: 1012965459129558486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cegonha 60x60_31
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 0
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fad3b2328fb4a6fa0800000000000000
+      internalID: -5806745240426824273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cegonha 60x60_32
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 0
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a182f1274aee2d740800000000000000
+      internalID: 5175461311858812954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cegonha 60x60_33
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 0
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fef45a18f0be0d560800000000000000
+      internalID: 7336622244818669551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cegonha 60x60_34
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 0
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce32117e0926d9730800000000000000
+      internalID: 4007467617921082348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cegonha 60x60_35
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 0
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 838f7ed2a84753820800000000000000
+      internalID: 2897350072107268152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

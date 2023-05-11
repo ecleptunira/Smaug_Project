@@ -1,0 +1,973 @@
+fileFormatVersion: 2
+guid: ddb6b82476a1ac946841567b109793ef
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1601551304354642738
+    second: Pai 60x60_0
+  - first:
+      213: 7820996309725876867
+    second: Pai 60x60_1
+  - first:
+      213: 8953819658826629858
+    second: Pai 60x60_2
+  - first:
+      213: 8255586499454933545
+    second: Pai 60x60_3
+  - first:
+      213: -806433527154514218
+    second: Pai 60x60_4
+  - first:
+      213: -5996848418588595859
+    second: Pai 60x60_5
+  - first:
+      213: 4518912467232252408
+    second: Pai 60x60_6
+  - first:
+      213: 5188097057606767096
+    second: Pai 60x60_7
+  - first:
+      213: 365580801186360596
+    second: Pai 60x60_8
+  - first:
+      213: -805442453485216075
+    second: Pai 60x60_9
+  - first:
+      213: 2665580062890356140
+    second: Pai 60x60_10
+  - first:
+      213: -3404843718861352334
+    second: Pai 60x60_11
+  - first:
+      213: 1801835084025165060
+    second: Pai 60x60_12
+  - first:
+      213: 6395253914730355581
+    second: Pai 60x60_13
+  - first:
+      213: -3259060125355205181
+    second: Pai 60x60_14
+  - first:
+      213: -3381841785833552487
+    second: Pai 60x60_15
+  - first:
+      213: -51504015518186748
+    second: Pai 60x60_16
+  - first:
+      213: 8254651612628900572
+    second: Pai 60x60_17
+  - first:
+      213: -6727263224454396157
+    second: Pai 60x60_18
+  - first:
+      213: -6809630974615081567
+    second: Pai 60x60_19
+  - first:
+      213: 1489349797482763785
+    second: Pai 60x60_20
+  - first:
+      213: 1109677385313596938
+    second: Pai 60x60_21
+  - first:
+      213: -2231396843657415618
+    second: Pai 60x60_22
+  - first:
+      213: 843843846587829582
+    second: Pai 60x60_23
+  - first:
+      213: -1093317554119201703
+    second: Pai 60x60_24
+  - first:
+      213: 4334096522257126777
+    second: Pai 60x60_25
+  - first:
+      213: -8645902515231500775
+    second: Pai 60x60_26
+  - first:
+      213: -5622763194456267113
+    second: Pai 60x60_27
+  - first:
+      213: -2006590255114352740
+    second: Pai 60x60_28
+  - first:
+      213: 501151367335499934
+    second: Pai 60x60_29
+  - first:
+      213: 4831837787809794905
+    second: Pai 60x60_30
+  - first:
+      213: 3314264241100450659
+    second: Pai 60x60_31
+  - first:
+      213: -6674708920058002552
+    second: Pai 60x60_32
+  - first:
+      213: -4032884143165108492
+    second: Pai 60x60_33
+  - first:
+      213: 126091180965573338
+    second: Pai 60x60_34
+  - first:
+      213: -612522758142409480
+    second: Pai 60x60_35
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pai 60x60_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 181
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec4c066f29526c9e0800000000000000
+      internalID: -1601551304354642738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pai 60x60_1
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 181
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3821adec4b2c98c60800000000000000
+      internalID: 7820996309725876867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pai 60x60_2
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 180
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e245435a8b524c70800000000000000
+      internalID: 8953819658826629858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pai 60x60_3
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 180
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92a95886e2cb19270800000000000000
+      internalID: 8255586499454933545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pai 60x60_4
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 180
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d66dfecaf8fec4f0800000000000000
+      internalID: -806433527154514218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pai 60x60_5
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 181
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d69e92ec22ae6cca0800000000000000
+      internalID: -5996848418588595859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pai 60x60_6
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 180
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f1667c52f666be30800000000000000
+      internalID: 4518912467232252408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pai 60x60_7
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 180
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f196e249c2dff740800000000000000
+      internalID: 5188097057606767096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pai 60x60_8
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 180
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41d6a6f3dcdc21500800000000000000
+      internalID: 365580801186360596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pai 60x60_9
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 120
+        width: 20
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5be9ef02b5e72d4f0800000000000000
+      internalID: -805442453485216075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pai 60x60_10
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 120
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cad61f0c1fa0ef420800000000000000
+      internalID: 2665580062890356140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pai 60x60_11
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 121
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2729c856da09fb0d0800000000000000
+      internalID: -3404843718861352334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pai 60x60_12
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 121
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 405f72f5677610910800000000000000
+      internalID: 1801835084025165060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pai 60x60_13
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 120
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7bddeb4d8180c850800000000000000
+      internalID: 6395253914730355581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pai 60x60_14
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 120
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cd109e451e75c2d0800000000000000
+      internalID: -3259060125355205181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pai 60x60_15
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 120
+        width: 23
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99581d440d84111d0800000000000000
+      internalID: -3381841785833552487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pai 60x60_16
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 120
+        width: 22
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 403488aee55094ff0800000000000000
+      internalID: -51504015518186748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pai 60x60_17
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 120
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdad95b18e96e8270800000000000000
+      internalID: 8254651612628900572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pai 60x60_18
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 61
+        width: 20
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 307c8db6db5f3a2a0800000000000000
+      internalID: -6727263224454396157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pai 60x60_19
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 61
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ad229225b45f71a0800000000000000
+      internalID: -6809630974615081567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pai 60x60_20
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 62
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9069249ffbb3ba410800000000000000
+      internalID: 1489349797482763785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pai 60x60_21
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 62
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a06b6eed3bd566f00800000000000000
+      internalID: 1109677385313596938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pai 60x60_22
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 61
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e343fd4a46c7801e0800000000000000
+      internalID: -2231396843657415618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pai 60x60_23
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 61
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4d44c1f18fe5bb00800000000000000
+      internalID: 843843846587829582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pai 60x60_24
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 61
+        width: 23
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95ca6082a71c3d0f0800000000000000
+      internalID: -1093317554119201703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pai 60x60_25
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 61
+        width: 22
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 975546fe2ddc52c30800000000000000
+      internalID: 4334096522257126777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pai 60x60_26
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 61
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91658f86875930880800000000000000
+      internalID: -8645902515231500775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pai 60x60_27
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 0
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7962b425aaee7f1b0800000000000000
+      internalID: -5622763194456267113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pai 60x60_28
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c97062a5bc82724e0800000000000000
+      internalID: -2006590255114352740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pai 60x60_29
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 0
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e98dbbc638274f600800000000000000
+      internalID: 501151367335499934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pai 60x60_30
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 0
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95b46ba2ed22e0340800000000000000
+      internalID: 4831837787809794905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pai 60x60_31
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 0
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36b629e74c1aefd20800000000000000
+      internalID: 3314264241100450659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pai 60x60_32
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 1
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 883cfc0f99bae53a0800000000000000
+      internalID: -6674708920058002552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pai 60x60_33
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 0
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fe865a2d315808c0800000000000000
+      internalID: -4032884143165108492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pai 60x60_34
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 0
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad233c2d247ffb100800000000000000
+      internalID: 126091180965573338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pai 60x60_35
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 1
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f44418fbc1ef77f0800000000000000
+      internalID: -612522758142409480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -31,4 +31,20 @@ public class Dialogue : MonoBehaviour
         
         
     }
+
+    public void NextScene2(){
+        image[cont].SetActive(false);
+        cont++;
+
+        if(cont <= image.Length -1){
+
+            image[cont].SetActive(true);
+
+        }else{
+
+            Time.timeScale = 1;
+            
+            
+        }
+    }
 }
