@@ -59,7 +59,7 @@ public class Movement : MonoBehaviour
         }else if(collision.gameObject.CompareTag("Boss")){
             
             Destroy(gameObject);
-            lastDialogue.SetActive(true);
+            // lastDialogue.SetActive(true);
             Time.timeScale = 0f;
         }
 

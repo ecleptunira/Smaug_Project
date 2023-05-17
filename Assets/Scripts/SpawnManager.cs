@@ -40,7 +40,7 @@ public class SpawnManager : MonoBehaviour
     {
         if(stockEnem <=0 && !boss){
             boss = true;
-            Invoke("Boss", 10f);
+            Invoke("Boss", 5f);
         }
        
         
