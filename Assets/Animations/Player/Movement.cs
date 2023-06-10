@@ -1,10 +1,12 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class Movement : MonoBehaviour
 {   
-    
+   
+  
     [SerializeField]
     public Animator anim;
     [SerializeField]
@@ -25,8 +27,7 @@ public class Movement : MonoBehaviour
 
     void Update()
     {   
-        
-        
+       
         Vector3 movement = new Vector3(Input.GetAxis("Horizontal"), Input.GetAxis("Vertical"));
         anim.SetFloat("Horizontal", movement.x);
         anim.SetFloat("Vertical", movement.y);
@@ -42,14 +43,14 @@ public class Movement : MonoBehaviour
         
         if(collision.gameObject.CompareTag("Enemy") || collision.gameObject.CompareTag("Nut")){
             lifeCurrent -= 1;
-            HealthBar.currentLife = lifeCurrent;
+            HealthBar.currentLife --;
             Destroy(collision.gameObject);
             doHurt();
             Sound.instance.soundPlayer.Play();
             
             
 
-            if(HealthBar.currentLife < 0 ){
+            if(HealthBar.currentLife < 1){
                 
                 Destroy(gameObject);
                 lastDialogue.SetActive(true);
@@ -65,4 +66,8 @@ public class Movement : MonoBehaviour
 
         
     }
+     void LoadScene(){
+        SceneManager.LoadScene("Win");
+    }
+    
 }

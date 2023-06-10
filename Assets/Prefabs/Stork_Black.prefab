@@ -15,8 +15,7 @@ GameObject:
   - component: {fileID: 8549879846427782631}
   - component: {fileID: 6376415949130545652}
   - component: {fileID: 2954962068366486460}
-  - component: {fileID: 4850278320527319084}
-  - component: {fileID: 3651591480784469994}
+  - component: {fileID: -7048009437424693324}
   m_Layer: 0
   m_Name: Stork_Black
   m_TagString: Boss
@@ -266,32 +265,7 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
---- !u!114 &4850278320527319084
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5619484861663096899}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 13eb53ca5356abc439115090f8af9c70, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  speed: 4
-  checkRadius: 10
-  attackRadius: 2
-  scene2: 0
-  shouldRotate: 1
-  WhatIsPlayer:
-    serializedVersion: 2
-    m_Bits: 64
-  anim: {fileID: 2954962068366486460}
-  effectDestroy: {fileID: 7181927933332002972, guid: e22b2ffe4d6583e4fa90f8a86e6ca8f5, type: 3}
-  effectHurt: {fileID: 597796975873730456, guid: da6581fcfea6b0046a83e4b2e3aeb644, type: 3}
-  lifeEnemy: 3
-  doDamage: 1
---- !u!114 &3651591480784469994
+--- !u!114 &-7048009437424693324
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -300,21 +274,21 @@ MonoBehaviour:
   m_GameObject: {fileID: 5619484861663096899}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7952be07a5003294c9744228db1a9823, type: 3}
+  m_Script: {fileID: 11500000, guid: 13eb53ca5356abc439115090f8af9c70, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 4
   checkRadius: 10
   attackRadius: 2
-  dir: {x: 0, y: 0, z: 0}
+  scene2: 1
   shouldRotate: 1
   WhatIsPlayer:
     serializedVersion: 2
     m_Bits: 64
+  anim: {fileID: 0}
   effectDestroy: {fileID: 7181927933332002972, guid: e22b2ffe4d6583e4fa90f8a86e6ca8f5, type: 3}
   effectHurt: {fileID: 597796975873730456, guid: da6581fcfea6b0046a83e4b2e3aeb644, type: 3}
   lifeEnemy: 3
-  lifeEnemyCurrent: 3
   doDamage: 1
 --- !u!1 &6853147608409428468
 GameObject:

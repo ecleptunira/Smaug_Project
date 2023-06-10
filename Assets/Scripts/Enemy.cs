@@ -26,6 +26,8 @@ public class Movement_enemyAnim : MonoBehaviour
 
 
 
+
+
     [SerializeField] ParticleSystem effectDestroy;
     [SerializeField] ParticleSystem effectHurt;
     public int lifeEnemy = 2;
@@ -100,7 +102,9 @@ public class Movement_enemyAnim : MonoBehaviour
             isAlive = false;
             Sound.instance.soundEnemy.Play();
             Destroy(this.gameObject,0.1f);
+            
            
         }
+        
     }
 }
