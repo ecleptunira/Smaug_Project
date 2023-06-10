@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Bullet : MonoBehaviour
+public class BulletLevel2 : MonoBehaviour
 {
     [SerializeField] float speed;
    
@@ -26,7 +26,7 @@ public class Bullet : MonoBehaviour
             Destroy(this.gameObject);
         }
         if(collision.gameObject.CompareTag("Boss")){
-            collision.gameObject.GetComponent<EnemyControll>().DamageEnemy(doDamage);
+            collision.gameObject.GetComponent<Enemy>().DamageEnemy(doDamage);
            
             Destroy(this.gameObject);
         }

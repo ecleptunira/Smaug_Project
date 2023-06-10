@@ -2,19 +2,14 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
-using UnityEngine.Events;
 
-public class EnemyControll : MonoBehaviour
-{   
-    
+public class BossStork : MonoBehaviour
+{
     public float speed;
     public float checkRadius;
     public float attackRadius;
     private Vector3 dir;
-    public bool scene2;
-   
- 
-        
+  
 
 
     public bool shouldRotate;
@@ -23,31 +18,27 @@ public class EnemyControll : MonoBehaviour
 
     private Transform target;
     private Rigidbody2D rb;
-    private BoxCollider2D col;
-    public Animator anim;
+    private Animator anim;
     private Vector2 movement;
     private bool isInChaseRange;
     private bool isInAttackRange;
     public static bool isAlive = true;
-    
+
+
 
 
 
 
     [SerializeField] ParticleSystem effectDestroy;
     [SerializeField] ParticleSystem effectHurt;
-    public  int lifeEnemy = 3;
-    public  static int lifeEnemyCurrent = 3;
-    public int doDamage = 1;
-   
-
-
+    public int lifeEnemy = 2;
+    public int lifeEnemyCurrent;
   
+
     private void Start()
     {
         rb  = GetComponent<Rigidbody2D>();
         anim = GetComponent<Animator>();
-        col = GetComponent<BoxCollider2D>();
         target = GameObject.FindWithTag("Player").transform;
         
     }
@@ -71,8 +62,6 @@ public class EnemyControll : MonoBehaviour
                 anim.SetFloat("Y", dir.y);
             }
         }
-
-      
 
         
     }
@@ -103,50 +92,24 @@ public class EnemyControll : MonoBehaviour
     public void doEffectHurt(){
         Instantiate(effectHurt,transform.position, transform.rotation);
     }
-
     void LoadScene(){
-        SceneManager.LoadScene("Scene1.1");
-    }
-    
-    void LoadScene2(){
         SceneManager.LoadScene("Win");
     }
 
-    
 
     public void DamageEnemy(int damaged){
         lifeEnemyCurrent -= damaged;
         doEffectHurt();
-        Player.stockBulletBoss ++;
         
-
-        // if(lifeEnemyCurrent <= 0){
-            
-        //     doEffectDestroy();
-        //     isAlive = false;
-        //     Sound.instance.soundEnemy.Play();
-        //     col.enabled = false;
-        //     anim.SetTrigger("Dead");
-        //     Invoke("LoadScene", 1.5f);
-        // }
-
-        if(lifeEnemyCurrent <= 0 && scene2){
-            
+       if(lifeEnemyCurrent <= 0){
             doEffectDestroy();
             isAlive = false;
             Sound.instance.soundEnemy.Play();
-            col.enabled = false;
-            anim.SetTrigger("Dead");
-            Time.timeScale = 0.7f;
-            Invoke("LoadScene2", 1.5f);
-            
-        }else if(lifeEnemyCurrent <= 0){
-            doEffectDestroy();
-            isAlive = false;
-            Sound.instance.soundEnemy.Play();
-            col.enabled = false;
-            anim.SetTrigger("Dead");
+            Destroy(this.gameObject,0.1f);
             Invoke("LoadScene", 1.5f);
+            
+           
         }
+        
     }
 }

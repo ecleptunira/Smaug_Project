@@ -11,9 +11,9 @@ GameObject:
   - component: {fileID: 694266851391597598}
   - component: {fileID: 6973827741294153868}
   - component: {fileID: 8819758183499401676}
-  - component: {fileID: 1539903857721100696}
   - component: {fileID: 1803742679068767149}
   - component: {fileID: 1050558804809156373}
+  - component: {fileID: -6404243927722831908}
   m_Layer: 0
   m_Name: vento
   m_TagString: Untagged
@@ -107,20 +107,6 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
---- !u!114 &1539903857721100696
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7143031224672145177}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: dd244804872c11e4489749dcb11762b1, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  speed: 8
-  doDamage: 1
 --- !u!61 &1803742679068767149
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -166,3 +152,17 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!114 &-6404243927722831908
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7143031224672145177}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dd244804872c11e4489749dcb11762b1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  speed: 8
+  doDamage: 1
